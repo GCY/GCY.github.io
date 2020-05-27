@@ -14,4 +14,4 @@ I have had an entrepreneurial experience for a few years. My role is to develop 
 
 My programming experience has been more than 10+ years and focus on Robotics, Computer Vision, Signal Processing and Embedded Systems.
 
-![robot and me](/images/robot and me.png "robot and me")
+![robot and me](/images/robot%20and%20me.png "robot and me")
