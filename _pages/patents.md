@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Patent"
-permalink: /patent/
+title: "Patents"
+permalink: /patents/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.patent reversed %}
+{% for post in site.patents reversed %}
   {% include archive-single.html %}
 {% endfor %}

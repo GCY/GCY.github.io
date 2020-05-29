@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/    
 
-  - title: "Patent"
-    url: /patent/    
+  - title: "Patents"
+    url: /patents/    
 
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
     
   - title: "CV"
