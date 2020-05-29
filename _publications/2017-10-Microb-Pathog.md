@@ -1,9 +1,9 @@
 ---
 title: "A Nanobiosensing Method Based on Force Measurement of Antibody-Antigen Interaction for Direct Detection of Enterovirus 71 by the Chemically Modified Atomic Force Microscopic Probe"
 collection: publications
-permalink: /publication/2017-09-01-Microb-Pathog
+permalink: /publication/2017-10-Microb-Pathog
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2017-09-01
+date: 2017-10
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
@@ -12,4 +12,4 @@ Hand, Foot and mouth disease (HFMD) is a common disease with high infectivity fo
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Hong, C. H., Hsieh, C. F., Tseng, C. S., Huang, W. C., <B>Guo, C. Y.</B>, Lin, S., & Lee, S. C. (2017). "A nanobiosensing method based on force measurement of antibody-antigen interaction for direct detection of enterovirus 71 by the chemically modified atomic force microscopic probe." <i>Microbial pathogenesis</i>, 111, 292-297. 1(2).
