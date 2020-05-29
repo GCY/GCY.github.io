@@ -15,4 +15,4 @@ Keywords: Anti-HPV16 L1; Atomic force microscopy; HPV16; Unbinding force.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Biochemistry and Biophysics Reports</i>. 1(1).
+Recommended citation: Lin, S., Hong, C. H., Sheu, B. C., Wu, L. X., Huang, W. C., Huang, W. C., & Guo, C. Y. (2016). Dynamic response of HPV16/anti-HPV16 pairs with unbinding events studied by atomic force microscopy. Biochemistry and biophysics reports, 6, 203-208.
