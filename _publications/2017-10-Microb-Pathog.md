@@ -3,7 +3,7 @@ title: "A Nanobiosensing Method Based on Force Measurement of Antibody-Antigen I
 collection: publications
 permalink: /publication/2017-10-Microb-Pathog
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2017-10
+date: 2017-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
