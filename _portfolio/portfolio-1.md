@@ -1,6 +1,6 @@
 ---
 title: "Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO"
-excerpt: "This is stereo camera project <br/> <p align='center'> <img src='https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/raw/master/res/demo.gif'></p>"
+excerpt: "This is stereo camera project <br/> <img WIDTH=400 HEIGHT=296 src='https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/raw/master/res/demo.gif'>"
 collection: portfolio
 ---
 
