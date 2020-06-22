@@ -16,6 +16,6 @@ I have had an entrepreneurial experience for a few years, My role is to develop 
 
 And I also received a special event on behalf of company, the president **Tsai Ing-wen** met with national representatives from CES 2019 at the Presidential Office.
 
-![President Tsai Ing-wen reception](/images/President%20Tsai%20Ing-wen%20reception "President Tsai Ing-wen reception")
+![President Tsai Ing-wen reception](/images/President%20Tsai%20Ing-wen%20reception.jpg "President Tsai Ing-wen reception")
 
 Finally, my programming experience has been more than 10+ years and focus on Robotics, Computer Vision, Signal Processing and Embedded Systems.
