@@ -33,12 +33,25 @@ Work experience
   * **DOIT Shenlearn**: Taoyuan, Taiwan
   * I have been an entrepreneur with my classmates during college, our mission is to change traditional flow of
   education. Use digitization system on cloud server to reduce the burden on educators, focus on information management of class and student and communication between teachers and parents. I am responsible for the  direction and planning of software and hardware development, including strategy, Business Model(BM), Pitch to VCs, Fingerprint Identification, RFID reader, Mobile App and collaborate with Backend(AWS).
+  
 Skills
 ======
-* Programing: C++ 03, C++ 11/14, Java(Android), C.
-* Biomedical Signal Processing
-* Image Processing
-* Embedded system
+* Programing:
+  * C++ 03
+  * C++ 11/14
+  * C
+  * Assembly
+  * Java(Android)
+
+* Domain:
+  * Robotics
+  * Biomedical Signal Processing
+  * Image Processing
+  * Computer Vision
+  * Sensors
+  * Embedded System
+  * Digital Holography
+  
 * Framework & Library:
   * wxWidgets
   * OpenCV
@@ -47,7 +60,7 @@ Skills
   * Tiny-DNN
   * OpenNN
   
-Leadership & Awards
+Awards & Honors
 ======
 * President **Tsai Ing-wen** reception with national representatives from CES 2019, Feb 2019
 * NTCU CSIE departmental graduate project competition, first place, Dec 2013. Taiwan Intelligent Robot Contest, 2nd place, April 2013.
