@@ -1,5 +1,5 @@
 ---
-title: "Research item number 5"
+title: "work item number 5"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: research
 ---
