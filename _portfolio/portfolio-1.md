@@ -4,12 +4,9 @@ excerpt: "This is stereo camera project <br/> <img src='https://github.com/GCY/L
 collection: portfolio
 ---
 
-# Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO
-
 ![v1.3](https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/blob/master/res/v1.3.jpg?raw=true)
 
 ![diagram](https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/blob/master/res/diagram.png?raw=true)
-
 
 ![demo](https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/blob/master/res/demo.gif) 
 
