@@ -6,6 +6,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Work"
+    url: /work/    
+
   - title: "Patents"
     url: /patents/       
 

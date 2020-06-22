@@ -187,7 +187,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
+  work:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -234,6 +236,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _work
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 
 # Sass/SCSS
 sass:
