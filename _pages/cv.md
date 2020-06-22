@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * May 2016 – Feb 2018: Consultant, R&D Center
-* Foxconn Technology Group - Yonglin Biotech: Taipei, Taiwan
+  * Foxconn Technology Group - Yonglin Biotech: Taipei, Taiwan
   * Lead core RD team to develop the toolchain(a series of software) for service robots in Foxconn Group. The toolchain includes robot motion editor, communication protocol between robots, robot interactive Health Education software, multiple robots synchronization method, communication between robots and Physiological Signal device(Muse, TPR), communication between robot and server and master- slave one-to-many robot wireless control method.
   * Develop Physiological Signal sensing algorithm and firmware with Microwave Radar of Doppler, obtain TW and CN patents and participate in EVT/PVT/DVT. Used algorithms and techniques include measure Breath, Heart Rate, Carotid pulse, Radial Artery pulse, Gesture detect, motion Deblur, FFT, Kalman filter, FIR and IIR.
 
@@ -29,7 +29,7 @@ Work experience
   * Develop software and firmware(MSP430, STM32F4) on wrist type Non-Invasive Continuous Blood Pressure Monitor(NICBP) and then perform experiments to verify it. Implement algorithm for ECG, Heart Sound, Lung Sound, Carotid pulse, TEB, ICG, Doppler Microwave Radar and analog signal of Near- Infrared Spectrometry(NIRS). Finally I build the system based on the Moens-Korteweg equation, including Pulse Wave Velocity(PWV), Pulse Arrival Time(PAT), Pulse Transit Time(PTT), Pre-Ejection Period(PEP), Ellipse to Fit, Linear Relationship solve and calibration.
   * Research and develop algorithm on 3D diffraction optics endoscopy, use Hologram, grating, Diffraction Optics Element(DOE) to generate Structured Light image for measure surface depth and finally integrate algorithm and GUI into ARM Cortext-A7. Relevant techniques include Fraunhofer Diffraction, Fresnel Diffraction, Image Filter, Image Segmentation, Object Detection, Camera Calibration, Geometry Mesh and Embedded Linux.
   
-*  Jun 2013 – Aug 2015: Co-Founder CTO
+* Jun 2013 – Aug 2015: Co-Founder CTO
   * DOIT Shenlearn: Taoyuan, Taiwan
   * I have been an entrepreneur with my classmates during college, our mission is to change traditional flow of
   education. Use digitization system on cloud server to reduce the burden on educators, focus on information management of class and student and communication between teachers and parents. I am responsible for the  direction and planning of software and hardware development, including strategy, Business Model(BM), Pitch to VCs, Fingerprint Identification, RFID reader, Mobile App and collaborate with Backend(AWS).
