@@ -62,7 +62,7 @@ Skills
   
 Awards & Honors
 ======
-* President **Tsai Ing-wen** reception with national representatives from CES 2019, Feb 2019
+* The president **Tsai Ing-wen** met with national representatives from CES 2019, Feb 2019
 * NTCU CSIE departmental graduate project competition, first place, Dec 2013. Taiwan Intelligent Robot Contest, 2nd place, April 2013.
 * Taiwan Intelligent Robot Contest, 3nd place, May 2014.
 * Taiwan Student Cluster Competition, 3rd prize, May 2014.
