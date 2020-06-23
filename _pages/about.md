@@ -12,7 +12,7 @@ I has been a consultant to Foxconn M Group and my role is to lead the robotics s
 
 ![robot and me](/images/robot%20and%20me.jpg "robot and me")
 
-I have had an entrepreneurial experience for a few years, my role is to lead the R&D team to develop medical devices, biometric system, personnel management systems and mobile applications, and I also received a special event on behalf of company, [the president **Tsai Ing-wen** met with national representatives from CES 2019 at the Presidential Office](https://www.taiwannews.com.tw/en/news/3646420).
+I have had an entrepreneurial experience for a few years, my role is to lead the R&D team to develop medical devices and service robots for new business development , and I also received a special event on behalf of company, [the president **Tsai Ing-wen** met with national representatives from CES 2019 at the Presidential Office](https://www.taiwannews.com.tw/en/news/3646420).
 
 ![Met President Tsai Ing-wen](/images/Met%20President%20Tsai%20Ing-wen.jpg "Met President Tsai Ing-wen")
 
