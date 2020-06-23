@@ -1,6 +1,7 @@
 ---
 title: "JLINK-ARM-OB"
-excerpt: "DIY ARM ICE, JTAG, SWD. <br/> <img src='/res/JLINK-ARM-OB/mem%200x8000000%2040960/connect%20JLink-OB%20to%20STM32F405.png'  width='500' height='500'>"
+excerpt: "<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/GCY/JLINK-ARM-OB" data-icon="octicon-star" aria-label="Star GCY/JLINK-ARM-OB on GitHub">Star</a> <br/> DIY ARM ICE, JTAG, SWD. <br/> <img src='/res/JLINK-ARM-OB/mem%200x8000000%2040960/connect%20JLink-OB%20to%20STM32F405.png'  width='500' height='500'>"
 collection: portfolio
 ---
 
