@@ -5,13 +5,13 @@ collection: portfolio
 ---
 
 
-<img src='https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg'>
+<img src="https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg">
 
 
-<img src='https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png'>
+<img src="https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png">
 
 
-<img src='https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/raw/master/res/demo.gif'>
+<img src="https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/raw/master/res/demo.gif">
 
 
 - 1. capture some [chessboard pattern](https://raw.githubusercontent.com/opencv/opencv/master/doc/pattern.png) picture from Left and Right Camera.
