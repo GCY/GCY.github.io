@@ -1,7 +1,6 @@
 ---
 title: "JLINK-ARM-OB"
-excerpt: "ARM ICE, JTAG, SWD
- <br/> <img src='/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.jpg'>"
+excerpt: "ARM ICE, JTAG, SWD"
 collection: portfolio
 ---
 
