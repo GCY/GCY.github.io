@@ -1,7 +1,7 @@
 ---
 title: "JLINK-ARM-OB"
 excerpt: "ARM ICE, JTAG, SWD
- <br/> <img src='https://github.com/GCY/JLINK-ARM-OB/raw/master/J-Link%20OB-STM32F103%20V1%20compiled%20Jan%20%207%202019/mem%200x8000000%2040960/jtag%20swd%20connect.png'>"
+ <br/> <img src='/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.png'>"
 collection: portfolio
 ---
 
