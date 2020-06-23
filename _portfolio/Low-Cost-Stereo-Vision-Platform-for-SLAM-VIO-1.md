@@ -4,7 +4,9 @@ excerpt: "This is stereo camera project <br/> <img src='https://github.com/GCY/L
 collection: portfolio
 ---
 
-<img src='https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg'>
+
+![diagram](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg)
+
 
 ![diagram](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png)
 
