@@ -1,6 +1,6 @@
 ---
 title: "GPS-Nixie-clock"
-excerpt: "This is GPS Nixie clock,include IN12B, IN14, IN16, and IN2 version. <br/> <img src='/res/GPS-Nixie-clock/nixie clock.jpg'>"
+excerpt: "This is GPS Nixie clock,include IN12B, IN14, IN16, and IN2 version. <br/> <img src='/res/GPS-Nixie-clock/nixie clock.jpg' width='500' height='600'>"
 collection: portfolio
 ---
 
