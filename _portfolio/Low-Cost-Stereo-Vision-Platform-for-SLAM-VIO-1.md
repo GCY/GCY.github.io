@@ -4,15 +4,12 @@ excerpt: "This is stereo camera project <br/> <img src='https://github.com/GCY/L
 collection: portfolio
 ---
 
-"<img src='https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/raw/master/res/demo.gif'>"
 
-![diagram](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg)
+<img src='https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg'>
 
+<img src='https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png'>
 
-![diagram](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png)
-
-
-![demo](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/demo.gif) 
+<img src='https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/raw/master/res/demo.gif'>
 
 
 - 1. capture some [chessboard pattern](https://raw.githubusercontent.com/opencv/opencv/master/doc/pattern.png) picture from Left and Right Camera.
@@ -21,4 +18,6 @@ collection: portfolio
 - 4. create StereoBM or SGBM object to calculate depth map.
 - 5. get point cloud from depth map and baseline.
 
-[Github Link](https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO)
+<p align='center'>
+ <a href="https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO">Github Link</a>
+</p>
