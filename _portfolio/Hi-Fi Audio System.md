@@ -1,38 +1,22 @@
 ---
 title: "Hi-Fi Audio System"
-excerpt: "I am an Audiophile, this is my Hi-Fi design collection. </br> <img src='/res/High-Fidelity%20(hi-fi)%20Audio%20System/Hi-Fi%20Audio%20System.jpg'>"
+excerpt: "I am an Audiophile, this is my Hi-Fi design collection. <br/> <img src='/res/High-Fidelity%20(hi-fi)%20Audio%20System/Hi-Fi%20Audio%20System.jpg'>"
 collection: portfolio
 ---
 
 <p align='center'>
-<a href="https://github.com/GCY/JLINK-ARM-OB">Github Link</a>
+<a href="https://github.com/GCY/BT-DAC-and-PreAMP">Github Link</a>
 </p>
 
-This is JLink-OB ARM ICE tool, [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/GCY.github.io/blob/master/res/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) extract from v6.44 JLinkARM.dll.
+This design is CSR64215 BT-Audio Module with I2S output signal to PCM5102 DAC, DAC output audio analog signal to headphone amplifier.
 
-This version([STM32F103 Jan 7 2019](https://github.com/GCY/GCY.github.io/blob/master/res/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) ) failed to upgrade the firmware of the JLink-OB with JLinkConfig.
+![](/res/High-Fidelity%20(hi-fi)%20Audio%20System/CSR64215%20%2B%20PCM5102%20%2B%20PreAMP(Dual%20OPA227)/DSC_0908.JPG)
 
-![](/res/JLINK-ARM-OB/JLinkARM.dll%20dump%20%20firmware.png)
+<p align='center'>
+<a href="https://github.com/GCY/GCY.github.io/blob/master/res/High-Fidelity%20(hi-fi)%20Audio%20System/MiniDAC/MiniDAC.zip">Download</a>
+</p>
 
-## Use
-- 1.burning [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/GCY.github.io/blob/master/res/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) to DIY JLink-OB.
-- 2.Connect targer(For example the following picture is my [STM32F405 Digital Stethoscope project](https://github.com/GCY/Digital-Stethoscope-for-Heart-and-Lung-sounds))
-![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.png)
+This is PCM2706+PCM5102 USB key size. 
+![](/res/High-Fidelity%20(hi-fi)%20Audio%20System/MiniDAC/DSC_1613.JPG)
 
-- 1.Run JLinkExe.
-- 2.J-Link > connect.
-- 3.Select device.     # the example is STM32F405
-- 4.Device > S.        # for SWD Port
-- 5.Speed = 4000kHz
-![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/connect%20JLink-OB%20to%20STM32F405.png)
 
-- 1.J-Link > mem 0x8000000 40960
-- 2.Test dump target flash.
-- 3.You DIY JLink-OB done.
-![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/dump%20STM32F405%20mem%200x8000000%2040960%20with%20JLink-OB%201.png)
-
-## Reference
-- [DIY JLink-OB-072 (JLink + COM)](http://akb77.com/g/stm32/jlink-ob/)
-- [JLink hack reference (cht)](https://www.amobbs.com/thread-5653964-1-1.html)
-- [J-Link Commander](https://wiki.segger.com/J-Link_Commander#savebin)
-- [Firmware extract from JLinkARM.dll (cht)](https://blog.csdn.net/qq_39663845/article/details/81086499)
