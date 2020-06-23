@@ -1,5 +1,5 @@
 ---
-title: "WowWee Rovio cross platform GUI controller"
+title: "Pulse Oximeter with MAX3010X"
 excerpt: "This project is MAX3010x library for STM32F4, currently supported MAX30100、MAX30102. 
 The Pulse Oximeter Monitor is a simple PC-Host tool for PPG signal used in pulse oximetry for the computation of oxygen saturation(SpO2).  <br/> <img src='/res/Pulse-Oximeter-with-MAX3010X/MAX30102%20Demo.gif'  width='600' height='500'>"
 collection: portfolio
