@@ -26,8 +26,7 @@ collection: portfolio
 
 <p align = "left">
 <font face = "Arial" size = "4">
-つ
-<a href = "http://dl.dropbox.com/u/16634624/STG/STG.java">
+つ<a href = "http://dl.dropbox.com/u/16634624/STG/STG.java">
 Source Code
 </a>
 </font>
