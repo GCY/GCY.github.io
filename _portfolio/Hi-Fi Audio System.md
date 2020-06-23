@@ -1,6 +1,6 @@
 ---
 title: "Hi-Fi Audio System"
-excerpt: "I am an Audiophile, this is my Hi-Fi design collection. <br/> <img src='/res/High-Fidelity%20(hi-fi)%20Audio%20System/Hi-Fi%20Audio%20System.jpg'>"
+excerpt: "I am an Audiophile, this is my Hi-Fi design collection. <br/> <img src='/res/High-Fidelity%20(hi-fi)%20Audio%20System/Hi-Fi%20Audio%20System.jpg'  width='600' height='500'>"
 collection: portfolio
 ---
 
