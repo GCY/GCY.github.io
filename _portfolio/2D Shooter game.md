@@ -4,7 +4,6 @@ excerpt: "This is NTCU CSIE 2011 OOP course final project written in java <br/> 
 collection: portfolio
 ---
 
-<!DOCTYPE HTML>
 
 <html>
 
@@ -20,14 +19,11 @@ collection: portfolio
 </font>
 </p>
 
-</br>
-
 <p align = "center">
 <applet code = "STG.class" width = "640" height = "480">
 </applet>
 </p>
 
-</br>
 <p align = "left">
 <font face = "Arial" size = "4">
 つ
@@ -37,16 +33,13 @@ Source Code
 </font>
 </p>
 
-</br>
 <p align = "left">
 <b>Command：</b>
-</br>
+
 javac STG.java
-</br>
+
 appletviewer STG.html
 </p>
-
-</br>
 
 <p align = "left">
 <font face = "Arial" size = "5">
@@ -57,8 +50,6 @@ Move：
 </font>
 </p>
 
-</br>
-
 <p align = "left">
 <font face = "Arial" size = "5">
 <b>
@@ -67,8 +58,6 @@ Attack：
 SPACE
 </font>
 </p>
-
-</br>
 
 <p align = "left">
 <font face = "Arial" size = "5">
