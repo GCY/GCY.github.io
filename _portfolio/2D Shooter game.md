@@ -26,17 +26,17 @@ collection: portfolio
 
 <p align = "left">
 <font face = "Arial" size = "4">
-つ<a href = "http://dl.dropbox.com/u/16634624/STG/STG.java">
+つ<a href = "https://github.com/GCY/GCY.github.io/blob/master/res/2D-STG/STG.zip">
 Source Code
 </a>
 </font>
 </p>
 
 <p align = "left">
-<b>Command：</b>
-
+<b>Build Command：</b>
 javac STG.java
 
+<b>appletviewer run：</b>
 appletviewer STG.html
 </p>
 
