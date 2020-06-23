@@ -1,6 +1,6 @@
 ---
 title: "MSP430G2 Geiger Counter"
-excerpt: "This is Geiger-Muller Counter <br/> <img src='/res/MSP430G2-Geiger-Counter/demo.gif'>"
+excerpt: "This is Geiger-Muller Counter. <br/> <img src='/res/MSP430G2-Geiger-Counter/demo.gif'>"
 collection: portfolio
 ---
 
