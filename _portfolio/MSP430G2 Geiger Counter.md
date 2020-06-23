@@ -4,10 +4,7 @@ excerpt: "This is Geiger-Muller Counter <br/> <img src='/res/MSP430G2-Geiger-Cou
 collection: portfolio
 ---
 
-# MSP430G2-Geiger-Counter
-
 This device is Geiger-Muller Counter ,and True Random Number Generator(TRNG) uses radioactive isotopes.
-</br>
 
 [![Audi R8](http://img.youtube.com/vi/-gwNQ9MdoDw/0.jpg)](https://youtu.be/-gwNQ9MdoDw)
 
@@ -42,14 +39,10 @@ This device is Geiger-Muller Counter ,and True Random Number Generator(TRNG) use
 - VR1 - Adjust High-Voltage output 180VDC~500VDC, DMM setting 1000VDC internal resistance = 10M, if you measure tube voltage around 250VDC you're doing fine(real voltage 400VDC).
 - IC1 - if this is use LDO, your temperature sensor power supply voltage = 2.9v-3v(TMP35), use forward voltage(VF) 0.5v diode,  temperature sensor power supply voltage = 3.7v-4v(LM35).
 
-</br>
-
 ![](/res/MSP430G2-Geiger-Counter/ldo%20replace%20to%20diode.png?raw=true)
 
 ### Light Sensitive Problem (J321βγ, M4011)
 [Reference This Discussion](http://www.gqelectronicsllc.com/forum/topic.asp?TOPIC_ID=4540)
-
-</br>
 
 For J321βγ, it doesn't happen often, I guess that's about wavelength of light.
 
@@ -67,12 +60,12 @@ For J321βγ, it doesn't happen often, I guess that's about wavelength of light.
 ### Key Parameters
 
 How to calculate calibration factor? Reference [Method1,2,3,4](https://sites.google.com/site/diygeigercounter/technical/gm-tubes-supported?authuser=0 ) (SBM-20 = 175, M4011 or J321βγ = 153.8)
-</br>
+
 <pre><code>
 const float CPM2uSv = 153.8f; //CPM to uSv/h conversion rate
 </code></pre>
 
-</br>
+
 R19, R20 is 10k and 33k, LM321 gain = 1+(33k/10k) = 4.3, so original temperature voltage: temp_vol = (ADC/4.3) * (3.3/1024), every 10mV(TMP35, LM35) = 1°C, temperature = temp_vol / 0.01 °C.
 <pre><code>
 const float TEMPERATURE_GAIN = 1.0f + 3.3f; // 1+ (33k/10k)
@@ -81,7 +74,7 @@ const float ADC2VOL = (3.3f/1024.0f);  // 3.3v/10bit
 
 ### Radiation Measurements
 If detected ionizing radiation MSP430G4 P1_4 interrupt count += 1.
-</br>
+
 CPM_TIME_PERIOD 20-second sampling-rate for count-per-minute calculate, CPM = 60sec/20sec * count;
 <pre><code>
 const unsigned long CPM_TIME_PERIOD = 20;
@@ -119,7 +112,7 @@ random_number_size = 0;
 }
 
 </code></pre>
-</br>
+
 
 ![](/res/MSP430G2-Geiger-Counter/energia%20serial%20monitor.png?raw=true)
 
