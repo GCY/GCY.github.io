@@ -5,11 +5,9 @@ collection: portfolio
 ---
 
 
-<img src="https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg">
+![v1.3.jpg](/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg "v1.3.jpg")
 
-
-<img src="https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png">
-
+![diagram.png](/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png "diagram.png")
 
 <img src="https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/raw/master/res/demo.gif">
 
