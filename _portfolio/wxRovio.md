@@ -1,6 +1,6 @@
 ---
 title: "WowWee Rovio cross platform GUI controller"
-excerpt: " <br/> <img src='/res/wxRovio/WowWee%20Rovio.jpg'>"
+excerpt: "Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view what the robot's webcam sees from anywhere in the world. It can be accessed and controlled via an internet connection from any PC, Mac, Cell Phone, Smartphone, PDA or PSP. <br/> The Rovio uses a Killough platform for omnidirectional motion. <br/> <img src='/res/wxRovio/WowWee%20Rovio.jpg'>"
 collection: portfolio
 ---
 
@@ -12,7 +12,9 @@ The Rovio uses a Killough platform for omnidirectional motion.
 <img src="/res/wxRovio/wxRovio%20Remote%20Control%20Demo.gif">
 </p>
 
-![WowWee Rovio](/res/wxRovio/WowWee%20Rovio.jpg)
+<p align="center">
+<img src="/res/wxRovio/WowWee%20Rovio.jpg">
+</p>
 
 ## wxRovio
 This is  cross platform GUI for WowWee Rovio control, Linux(Ubuntu) and Windows7.
