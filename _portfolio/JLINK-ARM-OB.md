@@ -1,7 +1,7 @@
 ---
 title: "JLINK-ARM-OB"
 excerpt: "ARM ICE, JTAG, SWD
- <br/> <img src='/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.png'>"
+ <br/> <img src='/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.jpg'>"
 collection: portfolio
 ---
 
@@ -18,7 +18,7 @@ This version([STM32F103 Jan 7 2019](https://github.com/GCY/GCY.github.io/blob/ma
 ## Use
 - 1.burning [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/GCY.github.io/blob/master/res/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) to DIY JLink-OB.
 - 2.Connect targer(For example the following picture is my [STM32F405 Digital Stethoscope project](https://github.com/GCY/Digital-Stethoscope-for-Heart-and-Lung-sounds))
-![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.png)
+![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.jpg)
 
 - 1.Run JLinkExe.
 - 2.J-Link > connect.
