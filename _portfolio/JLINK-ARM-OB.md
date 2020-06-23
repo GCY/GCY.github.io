@@ -1,6 +1,6 @@
 ---
 title: "JLINK-ARM-OB"
-excerpt: "DIY ARM ICE, JTAG, SWD. <br/> <img src='/JLINK-ARM-OB/mem%200x8000000%2040960/connect%20JLink-OB%20to%20STM32F405.png'>"
+excerpt: "DIY ARM ICE, JTAG, SWD. <br/> <img src='/res/JLINK-ARM-OB/mem%200x8000000%2040960/connect%20JLink-OB%20to%20STM32F405.png'>"
 collection: portfolio
 ---
 
