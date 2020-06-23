@@ -4,6 +4,9 @@ excerpt: "This is stereo camera project <br/> <img src='https://github.com/GCY/L
 collection: portfolio
 ---
 
+<p align='center'>
+<a href="https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO">Github Link</a>
+</p>
 
 ![v1.3.jpg](/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg "v1.3.jpg")
 
@@ -17,7 +20,3 @@ collection: portfolio
 - 3. calibration stereo camera phase, execute initUndistortRectifyMap with "extrinsics.yml" and "intrinsics.yml" befor cv::remap
 - 4. create StereoBM or SGBM object to calculate depth map.
 - 5. get point cloud from depth map and baseline.
-
-<p align='center'>
- <a href="https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO">Github Link</a>
-</p>
