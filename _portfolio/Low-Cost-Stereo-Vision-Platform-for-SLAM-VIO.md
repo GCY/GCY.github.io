@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <p align='center'>
-<a href="https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO">Github Link</a>
+<a href="https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO">Github</a>
 </p>
 
 ![v1.3.jpg](/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg "v1.3.jpg")

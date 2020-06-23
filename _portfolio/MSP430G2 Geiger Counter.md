@@ -4,6 +4,10 @@ excerpt: "This is Geiger-Muller Counter. <br/> <img src='/res/MSP430G2-Geiger-Co
 collection: portfolio
 ---
 
+<p align='center'>
+<a href="https://github.com/GCY/MSP430G2-Geiger-Counter">Github</a>
+</p>
+
 This device is Geiger-Muller Counter ,and True Random Number Generator(TRNG) uses radioactive isotopes.
 
 [![Audi R8](http://img.youtube.com/vi/-gwNQ9MdoDw/0.jpg)](https://youtu.be/-gwNQ9MdoDw)
