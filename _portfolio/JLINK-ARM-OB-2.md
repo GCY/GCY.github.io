@@ -5,28 +5,28 @@ excerpt: "ARM ICE, JTAG, SWD
 collection: portfolio
 ---
 
-This is JLink-OB ARM ICE tool, [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/GCY.github.io/blob/master/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) extract from v6.44 JLinkARM.dll.
+This is JLink-OB ARM ICE tool, [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/GCY.github.io/blob/master/res/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) extract from v6.44 JLinkARM.dll.
 
-This version([STM32F103 Jan 7 2019](https://github.com/GCY/GCY.github.io/blob/master/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) ) failed to upgrade the firmware of the JLink-OB with JLinkConfig.
+This version([STM32F103 Jan 7 2019](https://github.com/GCY/GCY.github.io/blob/master/res/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) ) failed to upgrade the firmware of the JLink-OB with JLinkConfig.
 
-![](https://github.com/GCY/GCY.github.io/blob/master/JLINK-ARM-OB/JLinkARM.dll%20dump%20%20firmware.png)
+![](/res/JLINK-ARM-OB/JLinkARM.dll%20dump%20%20firmware.png)
 
 ## Use
-- 1.burning [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/GCY.github.io/blob/master/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) to DIY JLink-OB.
+- 1.burning [STM32F103 Jan 7 2019 firmware](https://github.com/GCY/GCY.github.io/blob/master/res/JLINK-ARM-OB/JLink-OB%20STM32F103%20JLinkARM.dll%20v6.44f%20.bin) to DIY JLink-OB.
 - 2.Connect targer(For example the following picture is my [STM32F405 Digital Stethoscope project](https://github.com/GCY/Digital-Stethoscope-for-Heart-and-Lung-sounds))
-![](https://github.com/GCY/GCY.github.io/blob/master/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.png)
+![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/jtag%20swd%20connect.png)
 
 - 1.Run JLinkExe.
 - 2.J-Link > connect.
 - 3.Select device.     # the example is STM32F405
 - 4.Device > S.        # for SWD Port
 - 5.Speed = 4000kHz
-![](https://github.com/GCY/GCY.github.io/blob/master/JLINK-ARM-OB/mem%200x8000000%2040960/connect%20JLink-OB%20to%20STM32F405.png)
+![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/connect%20JLink-OB%20to%20STM32F405.png)
 
 - 1.J-Link > mem 0x8000000 40960
 - 2.Test dump target flash.
 - 3.You DIY JLink-OB done.
-![](https://github.com/GCY/GCY.github.io/blob/master/JLINK-ARM-OB/mem%200x8000000%2040960/dump%20STM32F405%20mem%200x8000000%2040960%20with%20JLink-OB%201.png)
+![](/res/JLINK-ARM-OB/mem%200x8000000%2040960/dump%20STM32F405%20mem%200x8000000%2040960%20with%20JLink-OB%201.png)
 
 ## Reference
 - [DIY JLink-OB-072 (JLink + COM)](http://akb77.com/g/stm32/jlink-ob/)
