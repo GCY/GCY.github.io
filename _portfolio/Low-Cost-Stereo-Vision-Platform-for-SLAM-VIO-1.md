@@ -4,12 +4,12 @@ excerpt: "This is stereo camera project <br/> <img src='https://github.com/GCY/L
 collection: portfolio
 ---
 
-![v1.3](https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/blob/master/res/v1.3.jpg?raw=true)
+![v1.3](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/v1.3.jpg?raw=true)
 
-![diagram](https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/blob/master/res/diagram.png?raw=true)
+![diagram](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/diagram.png?raw=true)
 
 
-![demo](https://github.com/GCY/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/blob/master/res/demo.gif) 
+![demo](https://github.com/GCY/GCY.github.io/blob/master/res/Low-Cost-Stereo-Vision-Platform-for-SLAM-VIO/demo.gif) 
 
 
 - 1. capture some [chessboard pattern](https://raw.githubusercontent.com/opencv/opencv/master/doc/pattern.png) picture from Left and Right Camera.
