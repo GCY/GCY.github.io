@@ -18,7 +18,9 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 目前僅用MIT-BIH等標準心律不整資料庫或是生理訊號挑戰賽提供的標註資料，理論上很難得到超越其標注的學習模型，實務上還是需要配合其他臨床實驗搜集更多案例強化模型，下個To-Do會用標準資料庫訓練分類模型增加基本的自動化標註，目前僅針對臨床實時運行的特殊案例配合人工選擇QRS-Complex演算法自動切片。
 
 
-![demo](/res/wxECGAnalyzer/demo.gif)  
+<p align="center">
+<img src="/res/wxECGAnalyzer/demo.gif">
+</p>
 
 ## Use
 ### Dependence
@@ -52,7 +54,7 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 - 3.Clinical trial and validation.
 - 4.Port code file to your embedded project.
 
-![alt text](/res/wxECGAnalyzer/single%20mode.gif?raw=true) 
+![](/res/wxECGAnalyzer/single%20mode.gif?raw=true) 
 ## Features
 - [x] Filter
 - [x] Finite Impulse Response(FIR)
@@ -88,7 +90,7 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 ## The point of QRS-Complex Detection Algorithm
 ### Finite Impulse Response
 This project with FIR to filter ECG signal, coefficients generate parameter is 360hz, 32taps, band-pass 0.51Hz~8.9Hz and kaiser window.
-Coefficients Generator : https://github.com/GCY/Finite-Impulse-Response-FIR-Filter-
+[Coefficients Generator](https://github.com/GCY/Finite-Impulse-Response-FIR-Filter)
 ### Adaptive Threshold Algorithm
 This algorithm purpose for this project, involving two parts, first is adaptive threshold update, and second find the local maxima and minima. 
 Define threshold update period： (Sampling Rate / Target Low-Frequency), for example, target is ECG HR, normal people Heart Rate is 45-150 BPM, that is equally 0.75Hz-2.5Hz, 360SR/0.75Hz = 480 signal point, decrease update period the algorithm be sensitive.
@@ -128,18 +130,20 @@ Connect ECG signal output to STM32F4 PC0 pin, next load [*.elf](/res/wxECGAnalyz
 The setup ADC sampling rate is 360Hz with ADC + DMA + Timer-Trigger same as MIT-BIT arrhythmia database record.
 
 For VCP mode just define
-
+```cpp
 #define VCP_MODE
-
+```
 For Holter
+```cpp
 #define SINGLE_MODE
+```
 And define QRS-Complex detect algorithm flag
-
-//#define ATA 
+```cpp
+#define ATA 
 //#define HC 
 //#define SO 
 //#define PT 
-
+```
 
 
 ## Video
