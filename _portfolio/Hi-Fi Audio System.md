@@ -42,6 +42,15 @@ TDA1517 class-B dual output amplifier in a plastic single in-line medium power s
 RA1 Clone.
 ![](/res/High-Fidelity%20(hi-fi)%20Audio%20System/RA1/IMAG0104.jpg)
 
+PCM2706 DAC.
+![](/res/High-Fidelity%20(hi-fi)%20Audio%20System/pcm2706%20.jpg)
+
+X10D Buffer.
+![](/res/High-Fidelity%20(hi-fi)%20Audio%20System/X10D%20buffer.jpg)
+
+NE5532 Headphone Amplifier.
+![](/res/High-Fidelity%20(hi-fi)%20Audio%20System/NE5532amp.jpg)
+
 <p align='center'>
 <a href="https://github.com/GCY/GCY.github.io/blob/master/res/High-Fidelity%20(hi-fi)%20Audio%20System/RA1/RA1.pdf">PCB Doc</a>
 <a href="https://github.com/GCY/GCY.github.io/blob/master/res/High-Fidelity%20(hi-fi)%20Audio%20System/RA1/Film.pdf">PCB Film</a>
