@@ -12,7 +12,7 @@ collection: portfolio
 </head>
 
 <p align="center">
-<img src='/res/2D-STG/demo.gif'>
+<img src="/res/2D-STG/demo.gif">
 </p>
 
 <body>
