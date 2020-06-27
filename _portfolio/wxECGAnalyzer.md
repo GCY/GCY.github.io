@@ -57,35 +57,35 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 ![](/res/wxECGAnalyzer/single%20mode.gif?raw=true) 
 ## Features
 - [x] Filter
-- [x] Finite Impulse Response(FIR)
+  - [x] Finite Impulse Response(FIR)
 - [x] QRS-Complex Detect Algorithm
-- [x] Adaptive Threshold Algorithm
-- [x] HC_Chen Algorithm
-- [x] Enhanced So & Chen
-- [x] Pan-Tompkins
-- [ ] Deep-ECG(1D-CNN)
+  - [x] Adaptive Threshold Algorithm
+  - [x] HC_Chen Algorithm
+  - [x] Enhanced So & Chen
+  - [x] Pan-Tompkins
+  - [ ] Deep-ECG(1D-CNN)
 - [x] Heart Rate Variability
-- [x] Heart Rate
-- [x] SDNN
-- [x] NN50
-- [x] pNN50
+  - [x] Heart Rate
+  - [x] SDNN
+  - [x] NN50
+  - [x] pNN50
 - [x] Labeling
-- [x] Segmentation
-- [ ] Automatic segmentation
+  - [x] Segmentation
+  - [ ] Automatic segmentation
 - [x] MIT-BIH ECG-Codes
-- [ ] Automatic labeling(SVM+CNN Feature)
+  - [ ] Automatic labeling(SVM+CNN Feature)
 - [ ] MIT-BIH Database Operate
-- [ ] WFDB
+  - [ ] WFDB
 - [ ] Quantitative
-- [ ] Sensitivity
-- [ ] Specificity
-- [ ] Accuracy
-- [ ] Confusion Matrix
+  - [ ] Sensitivity
+  - [ ] Specificity
+  - [ ] Accuracy
+  - [ ] Confusion Matrix
 - [x] Other Operate  
-- [x] Record RAW data(60s)
-- [x] Save four plot(.png)  
-- [x] Fast Furious Transform(FFT) amplitude spectrum
-- [x] Connect serial port
+  - [x] Record RAW data(60s)
+  - [x] Save four plot(.png)  
+  - [x] Fast Furious Transform(FFT) amplitude spectrum
+  - [x] Connect serial port
 
 ## The point of QRS-Complex Detection Algorithm
 ### Finite Impulse Response
