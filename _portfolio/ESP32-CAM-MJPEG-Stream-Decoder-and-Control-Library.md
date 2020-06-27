@@ -13,7 +13,7 @@ ESP32-CAM is an inexpensive MJPEG stream embedded device.
 The library is MJPEG stream decoder based on libcurl and OpenCV, and written in C/C++.
 
 <p align="center">
-    <img src="https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/demo.gif">
+    <img src="/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/demo.gif">
 </p>
 
 ## Firmware
@@ -130,9 +130,9 @@ std::string ESP32_CAM::GetRSSI()
 }
 ```
 
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/rssi%20page.png?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/rssi%20page.png?raw=true)
 
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/receive%20rssi%20page%20content.png?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/receive%20rssi%20page%20content.png?raw=true)
 
 ### MJPEG Stream Format
 
@@ -169,7 +169,7 @@ JPEG Binary(0xFF,0xD8 ... 0xFF,0xD9)
 - "cd /examples/MAC/wxESP32-CAM/"
 - make
 
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/MAC%20GUI.png?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/MAC%20GUI.png?raw=true)
 
 #### Windows 10
 
@@ -189,7 +189,7 @@ Build x64 version wxWidgets and libcurl
   - Select "Release x64"
   - Rebuild
 
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/Win10%20GUI.PNG?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/Win10%20GUI.PNG?raw=true)
 
 #### DNN File
 
@@ -212,14 +212,14 @@ OpenCV highgui MJPEG stream player.
 - cd /examples/MAC/ESP32-CAM Opencv Example/
 - make
 
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/MAC%20OpenCV.png?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/MAC%20OpenCV.png?raw=true)
 
 #### Windows 10
 - Open *.sln project
 - Select "Release x64"
 - Rebuild
 
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/Win10%20OpenCV.PNG?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/Win10%20OpenCV.PNG?raw=true)
 
 ## Reference
 
@@ -239,12 +239,12 @@ OpenCV highgui MJPEG stream player.
  
 ### Pinout Diagram
 The following image shows the pinout diagram for the ESP32-CAM AI-Thinker.
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/ESP32-CAM%20pinout.png?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/ESP32-CAM%20pinout.png?raw=true)
 
 ### Schematic Diagram
 The following figure shows the schematic diagram for the ESP32-CAM.
 
-![alt text](https://github.com/GCY/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/blob/master/res/ESP32-CAM%20schematic%20diagram.png?raw=true)
+![alt text](/res/ESP32-CAM-MJPEG-Stream-Decoder-and-Control-Library/ESP32-CAM%20schematic%20diagram.png?raw=true)
 
 Licensing
 =======
