@@ -24,9 +24,9 @@ This project is electronic blood pressure monitor research platform with Oscillo
 
 ## Hardware
 
-Project create is Eagle PCB 8.1.0 .</br>
+Project create is Eagle PCB 8.1.0 .
 
-<strong>V2 version, D1(BAT20) should be replaced with zero ohm resistor.</strong></br>
+<strong>V2 version, D1(BAT20) should be replaced with zero ohm resistor.</strong>
 
 ![alt text](https://github.com/GCY/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/blob/master/res/assembly%20part%201.jpg?raw=true) 
 
@@ -64,21 +64,21 @@ Project create is Eagle PCB 8.1.0 .</br>
 
 ### Key Parameters
 
-PWM_Freq is DC Motor PWM frequency.</br>
-TIM_Prescaler = (168M/2)/1M = 84M</br>
-TIM_Period = TIMER_PWM_MAX/PWM_Freq = 1000</br>
+PWM_Freq is DC Motor PWM frequency.
+TIM_Prescaler = (168M/2)/1M = 84M
+TIM_Period = TIMER_PWM_MAX/PWM_Freq = 1000
 
-TIM = 84M / TIM_Prescaler = 1M</br>
-TIM = 1M / TIM_ClockDivision = 1M</br>
-1M / (TIM_Period + 1) = 1000Hz (1ms)</br>
+TIM = 84M / TIM_Prescaler = 1M
+TIM = 1M / TIM_ClockDivision = 1M
+1M / (TIM_Period + 1) = 1000Hz (1ms)
 <pre><code>
 const uint16_t PWM_Freq = 1000;
 </code></pre>
 
-ARR = TIMER_PWM_MAX;</br>
-CCR = 0 to TIMER_PWM_MAX = 0 to 100% PWM.</br>
-In this case, PID PWM step 1 to 100 mapped to 100000 to 1000000.</br>
-TIMER_PWM_33 and TIMER_PWM_40 is 33% and 40% PWM for calibration hand control.</br>
+ARR = TIMER_PWM_MAX;
+CCR = 0 to TIMER_PWM_MAX = 0 to 100% PWM.
+In this case, PID PWM step 1 to 100 mapped to 100000 to 1000000.
+TIMER_PWM_33 and TIMER_PWM_40 is 33% and 40% PWM for calibration hand control.
 <pre><code>
 const uint32_t PID_PWM_MIN = 1;
 const uint32_t PID_PWM_MAX = 100;
@@ -88,25 +88,25 @@ const uint32_t TIMER_PWM_33 = 330000;
 const uint32_t TIMER_PWM_40 = 400000;
 </code></pre>
 
-This is PID parameter, you need to redefine in ResetMeasurementParameter() function.</br>
+This is PID parameter, you need to redefine in ResetMeasurementParameter() function.
 <pre><code>
 Kp = 2, Ki = 0.3, Kd = 0.001; // for JQB032-3A
 </code></pre>
 
-AC signal amplitude point of Systolic and Diastolic BP.</br>
+AC signal amplitude point of Systolic and Diastolic BP.
 <pre><code>
 float as_am_value = 0.65f;
 float ad_am_value = 0.7f;
 </code></pre>
 
-Polynomial curve fitting is generated from 『Calibration ADC-DC to Mercury Manometer Pressure』, you'll need to create 『curve.csv』and execute PC-GUI software main.app or BPM.exe in the same folder, it will output the『equation.txt』.</br>
-e.g. degree = 2, equation.txt format is : (-1.0620516546)x^0+(0.1262915457)x^1+(-0.0000012119)x^2 </br>
+Polynomial curve fitting is generated from 『Calibration ADC-DC to Mercury Manometer Pressure』, you'll need to create 『curve.csv』and execute PC-GUI software main.app or BPM.exe in the same folder, it will output the『equation.txt』.
+e.g. degree = 2, equation.txt format is : (-1.0620516546)x^0+(0.1262915457)x^1+(-0.0000012119)x^2 
 <pre><code>
 float a[3] = {-0.0000012119f,0.1262915457f,-1.0620516546f};
 </code></pre>
 
-If pulse_value_N / total_pulse_value_mean > IPP_Ratio, pulse_N is irregular pulse peak, and IPP ratio range 15%~25%.</br>
-If IPP number / total_pulse_number > IHB_Ratio, this measurement is irregular heart beat.</br>
+If pulse_value_N / total_pulse_value_mean > IPP_Ratio, pulse_N is irregular pulse peak, and IPP ratio range 15%~25%.
+If IPP number / total_pulse_number > IHB_Ratio, this measurement is irregular heart beat.
 If two or more IHB of the three BP measurements, AF detected.<br>
 <pre><code>
 const float IPP_Ratio = 0.2f;
@@ -169,7 +169,7 @@ The two chart below show AC signal types, all of types are correct.
 
 ## Calibration ADC-DC to Mercury Manometer Pressure
 
-Pressure calibration reference is Mercury Manometer(Sphygmomanometer) or Aneroid Sphygmomanometer, you can buy products from Yuwell, Welch Allyn...etc </br>
+Pressure calibration reference is Mercury Manometer(Sphygmomanometer) or Aneroid Sphygmomanometer, you can buy products from Yuwell, Welch Allyn...etc 
 
 ### PC-GUI Software Control Steps
 - 1.Connecting device and PC-GUI software.
@@ -180,12 +180,12 @@ Pressure calibration reference is Mercury Manometer(Sphygmomanometer) or Aneroid
 - 6.Close PC-GUI software than reopen it, it will generate the『equation.txt』.
 - 7.copy equation and replace firmware parameter 『float a[3]』 in main.c.
 
-Column A is ADC0-value, B is Mercury Manometer mmHg pressure.</br>
+Column A is ADC0-value, B is Mercury Manometer mmHg pressure.
 ![alt text](https://github.com/GCY/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/blob/master/res/calibration%20example.png?raw=true)  
 
 ## Atrial Fibrillation In Oscillometric Method Detect Algorithm
 
-Below are a few real world cases of the AFib(for example PCV, PAC), envelope wave lost some peaks.</br>
+Below are a few real world cases of the AFib(for example PCV, PAC), envelope wave lost some peaks.
 
 ### Premature Atrial Contractions
 

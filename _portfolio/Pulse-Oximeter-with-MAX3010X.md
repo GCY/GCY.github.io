@@ -9,7 +9,7 @@ collection: portfolio
 <a href="https://github.com/GCY/Pulse-Oximeter-with-MAX3010X">Github</a>
 </p>
 
-This project is MAX3010x library for STM32F4, currently supported MAX30100、MAX30102. </br>
+This project is MAX3010x library for STM32F4, currently supported MAX30100、MAX30102. 
 The Pulse Oximeter Monitor is a simple PC-Host tool for PPG signal used in pulse oximetry for the computation of oxygen saturation(SpO2).  
 
 ![MAX30102](https://github.com/GCY/Pulse-Oximeter-with-MAX3010X/blob/master/res/max30102.jpg)
@@ -21,7 +21,7 @@ The Pulse Oximeter Monitor is a simple PC-Host tool for PPG signal used in pulse
 
 ### 2. Build stm32f4 project : 
 First, select MAX3010x type.
-</br>
+
 
 ```cpp
  #define _MAX30102_
@@ -35,11 +35,11 @@ First, select MAX3010x type.
 
 ![MAX30102 DEMO](https://github.com/GCY/Pulse-Oximeter-with-MAX3010X/blob/master/res/MAX30102%20Demo.gif)
 
-</br>
+
 
 [![Audi R8](http://img.youtube.com/vi/26pw-d6lBSQ/0.jpg)](https://youtu.be/26pw-d6lBSQ)
 
-</br>
+
 
 ## Near-Infrared Rpectroscopy (NIRS) measure oxygenation in a whole blood
 

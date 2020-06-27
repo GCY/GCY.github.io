@@ -35,7 +35,7 @@ static const char* _STREAM_PART = "Content-Type: image/jpeg\r\n\r\n";
 - wxWidgets 2.8.12(for wxESP32-CAM example)
 
 ### Use
-Include "ESP32-CAM MJPEG Library" folder into your project. </br>
+Include "ESP32-CAM MJPEG Library" folder into your project. 
 - ESP32-CAM Library.h
 - ESP32-CAM Library.cpp
 
@@ -136,7 +136,7 @@ std::string ESP32_CAM::GetRSSI()
 
 ### MJPEG Stream Format
 
-In this case MJPEG stream boundary is fixed length, for split into a MJPEG stream of JPEG binary(byte), each frame JPEG binary with cv::imdecode decode to RGB format. </br>
+In this case MJPEG stream boundary is fixed length, for split into a MJPEG stream of JPEG binary(byte), each frame JPEG binary with cv::imdecode decode to RGB format. 
 
 ```cpp
 const char VIDEO_STREAM_INTERLEAVE[] = "--WINBONDBOUDARY\r\nContent-Type: image/jpeg\r\n\r\n";
@@ -173,7 +173,7 @@ JPEG Binary(0xFF,0xD8 ... 0xFF,0xD9)
 
 #### Windows 10
 
-Build x64 version wxWidgets and libcurl</br>
+Build x64 version wxWidgets and libcurl
 - 『x64 Native Tools Command Prompt for VS 2017/2019』, open the program as an administrator.
 - Build x64 libcurl 7.67.0
   - cd "./libcurl-7.67.0/winbuild"
@@ -193,16 +193,16 @@ Build x64 version wxWidgets and libcurl</br>
 
 #### DNN File
 
-This example is wxWidgets GUI for the library demo, and integrate DNN Computer Vision use cases(YOLO V3, OpenPose).  </br>
+This example is wxWidgets GUI for the library demo, and integrate DNN Computer Vision use cases(YOLO V3, OpenPose).  
 
 - YOLO V3
-  - Weights: https://pjreddie.com/media/files/yolov3.weights </br>
-  - Model: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true </br>
-  - COCO: https://github.com/pjreddie/darknet/blob/master/data/coco.names?raw=true </br>
+  - Weights: https://pjreddie.com/media/files/yolov3.weights 
+  - Model: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true 
+  - COCO: https://github.com/pjreddie/darknet/blob/master/data/coco.names?raw=true 
 
 - OpenPose Caffe Model
-  - https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/models/pose/mpi/pose_deploy_linevec.prototxt </br>
-  - http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_146000.caffemodel </br>
+  - https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/models/pose/mpi/pose_deploy_linevec.prototxt 
+  - http://posefs1.perception.cs.cmu.edu/Users/ZheCao/pose_iter_146000.caffemodel 
 
 ### ESP32-CAM Opencv Example
 

@@ -9,14 +9,14 @@ collection: portfolio
 <a href="https://github.com/GCY/wxECGAnalyzer">Github</a>
 </p>
 
-Detection of abnormal rhythm morphologies is more difficult than normal beat, therefore, we need to collect abnormal rhythm signals in clinical practice to improve the detection of QRS-complex.</br>
-This project is for Electrocardiogram(ECG) signal algorithms design and validation, include preprocessing, QRS-Complex detection, embedded system validation, ECG segmentation, label your machine learning dataset, and clinical trial...etc.</br>
-</br>
+Detection of abnormal rhythm morphologies is more difficult than normal beat, therefore, we need to collect abnormal rhythm signals in clinical practice to improve the detection of QRS-complex.
+This project is for Electrocardiogram(ECG) signal algorithms design and validation, include preprocessing, QRS-Complex detection, embedded system validation, ECG segmentation, label your machine learning dataset, and clinical trial...etc.
+
 For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QRS shall in the 150ms range of the signed point from annotation by human exper.
-</br>
-</br>
+
+
 目前僅用MIT-BIH等標準心律不整資料庫或是生理訊號挑戰賽提供的標註資料，理論上很難得到超越其標注的學習模型，實務上還是需要配合其他臨床實驗搜集更多案例強化模型，下個To-Do會用標準資料庫訓練分類模型增加基本的自動化標註，目前僅針對臨床實時運行的特殊案例配合人工選擇QRS-Complex演算法自動切片。
-</br>
+
 
 <p align="center">
   <img src="https://github.com/GCY/wxECGAnalyzer/blob/master/res/demo.gif">
@@ -89,23 +89,23 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 
 ## The point of QRS-Complex Detection Algorithm
 ### Finite Impulse Response
-This project with FIR to filter ECG signal, coefficients generate parameter is 360hz, 32taps, band-pass 0.51Hz~8.9Hz and kaiser window.</br>
+This project with FIR to filter ECG signal, coefficients generate parameter is 360hz, 32taps, band-pass 0.51Hz~8.9Hz and kaiser window.
 Coefficients Generator : https://github.com/GCY/Finite-Impulse-Response-FIR-Filter-
 ### Adaptive Threshold Algorithm
-This algorithm purpose for this project, involving two parts, first is adaptive threshold update, and second find the local maxima and minima. </br>
-Define threshold update period： (Sampling Rate / Target Low-Frequency), for example, target is ECG HR, normal people Heart Rate is 45-150 BPM, that is equally 0.75Hz-2.5Hz, 360SR/0.75Hz = 480 signal point, decrease update period the algorithm be sensitive.</br>
-Determinate the local maxima and minima we need to know gradient, calculate below equation to find the gradient, Threshold_Factor for 12Bit ADC is 3.0f, increase Threshold_Factor, the local maximum and minimum are determinated by the algorithm which need more gradient.</br>
-Gradient = RMS * CV(%) * Threshold_Factor</br>
-Design more rules for the local maximum and minimum, your project will be able to recognize ECG PQRST.</br>
+This algorithm purpose for this project, involving two parts, first is adaptive threshold update, and second find the local maxima and minima. 
+Define threshold update period： (Sampling Rate / Target Low-Frequency), for example, target is ECG HR, normal people Heart Rate is 45-150 BPM, that is equally 0.75Hz-2.5Hz, 360SR/0.75Hz = 480 signal point, decrease update period the algorithm be sensitive.
+Determinate the local maxima and minima we need to know gradient, calculate below equation to find the gradient, Threshold_Factor for 12Bit ADC is 3.0f, increase Threshold_Factor, the local maximum and minimum are determinated by the algorithm which need more gradient.
+Gradient = RMS * CV(%) * Threshold_Factor
+Design more rules for the local maximum and minimum, your project will be able to recognize ECG PQRST.
 ### HC Chen
-This project modified LPF and HPF window size, hp_buffer = 150ms(QRS-Complex size), forgetting factor alpha is used to avoid threshold keeping high-level.</br>
+This project modified LPF and HPF window size, hp_buffer = 150ms(QRS-Complex size), forgetting factor alpha is used to avoid threshold keeping high-level.
 ### Enhanced So & Chen
-The threshold_parameter and filter_parameter are 4 and 16 in the implementation , enhanced point is 123(350ms for 360Hz sampling rate), if last QRS-Complex point is over triple sampling rate, we will decrease threshold until zero, slope square process could detect abnormal heart rhythms.</br>
+The threshold_parameter and filter_parameter are 4 and 16 in the implementation , enhanced point is 123(350ms for 360Hz sampling rate), if last QRS-Complex point is over triple sampling rate, we will decrease threshold until zero, slope square process could detect abnormal heart rhythms.
 ### Pan-Tompkins
-The Pan-Tompkins filter of classical version is design for 200Hz and band-pass 5Hz-15Hz, if ECG signal is over 200Hz it needs to downsample to 200Hz, this project with FIR to clean 360Hz ECG signal, and modified Search Back period must be more than sampling_rate * 1.66(600 point, but this project is 550 point) .</br>
+The Pan-Tompkins filter of classical version is design for 200Hz and band-pass 5Hz-15Hz, if ECG signal is over 200Hz it needs to downsample to 200Hz, this project with FIR to clean 360Hz ECG signal, and modified Search Back period must be more than sampling_rate * 1.66(600 point, but this project is 550 point) .
 ### Real-Time Complexity 
-Running on STM32F407 clock 168MHz and enable FPU, y-axix time uint is nanoseconds, x-axix is signal point.</br>
-Charts below show runtime environment time complexity, Adative Threshold Algorithm complexity is follow gradient threshold(step edge), the QRS-complex detection of the classical Pan-Tompkins algorithm mainly complexity is Search Back, HC Chen and So&Chen relatively stable.</br>
+Running on STM32F407 clock 168MHz and enable FPU, y-axix time uint is nanoseconds, x-axix is signal point.
+Charts below show runtime environment time complexity, Adative Threshold Algorithm complexity is follow gradient threshold(step edge), the QRS-complex detection of the classical Pan-Tompkins algorithm mainly complexity is Search Back, HC Chen and So&Chen relatively stable.
 #### Adaptive Threshold Algorithm (Average : 8.100692259ns)
 ![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/ata%20time.png?raw=true)  
 #### HC Chen (Average : 2.060941828ns)
@@ -115,7 +115,7 @@ Charts below show runtime environment time complexity, Adative Threshold Algorit
 #### Pan-Tompkins (Average : 548.0295567ns)
 ![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/pt%20time.png?raw=true)  
 ### Heart Rate Variability
-Heart Rate and HRV are move-average in the implementation, N = BEAT_SIZE = 16.</br>
+Heart Rate and HRV are move-average in the implementation, N = BEAT_SIZE = 16.
 ## Experiment device
 
 ### Devices
@@ -129,16 +129,16 @@ Heart Rate and HRV are move-average in the implementation, N = BEAT_SIZE = 16.</
 ### Setup
 Connect ECG signal output to STM32F4 PC0 pin, next load [*.elf](https://github.com/GCY/wxECGAnalyzer/tree/master/embedded) and run.
 The setup ADC sampling rate is 360Hz with ADC + DMA + Timer-Trigger same as MIT-BIT arrhythmia database record.
-</br></br>
-For VCP mode just define</br>
+
+For VCP mode just define
 ```cpp
 #define VCP_MODE
 ```
-For Holter</br>
+For Holter
 ```cpp
 #define SINGLE_MODE
 ```
-And define QRS-Complex detect algorithm flag</br>
+And define QRS-Complex detect algorithm flag
 ```cpp
 #define ATA 
 //#define HC 
@@ -148,7 +148,7 @@ And define QRS-Complex detect algorithm flag</br>
 
 
 ## Video
-</br>
+
 
 ### Algorithm test
 [![Audi R8](http://img.youtube.com/vi/GpHpex1oun4/0.jpg)](https://youtu.be/GpHpex1oun4)
@@ -158,7 +158,7 @@ And define QRS-Complex detect algorithm flag</br>
 ### Disturbance
 [![Audi R8](http://img.youtube.com/vi/AtoNvDiFkyU/0.jpg)](https://youtu.be/AtoNvDiFkyU)
 
-</br>
+
 
 ## Reference
 - Find the local maxima and minima : http://billauer.co.il/peakdet.html
