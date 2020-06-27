@@ -11,10 +11,21 @@ collection: portfolio
 This project is electronic blood pressure monitor research platform with Oscillometric method, include SBP and DBP estimate algorithm, Atrial Fibrillation detection algorithm, calibration curve, GUI tool for fine-tune BP algorithm...etc, ofcourse, this is research use only.
 
 <p align="center">
-  <img src="/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/demo.gif">
+<img src="/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/demo.gif">
 </p>  
 
 ![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/v2%20pcb.jpg?raw=true)  
+
+## Blood Pressure Measurement Oscillometric Method
+
+The oscillometric method was first demonstrated in 1876 and involves the observation of oscillations in the sphygmomanometer cuff pressure which are caused by the oscillations of blood flow, It uses a sphygmomanometer cuff, like the auscultatory method, but with an electronic pressure sensor (transducer) to observe cuff pressure oscillations, electronics to automatically interpret them, and automatic inflation and deflation of the cuff. The pressure sensor should be calibrated periodically to maintain accuracy.
+
+A new analysis of relevant anatomy, physiology and physics reveals the mechanisms underlying the production of cuff pressure oscillations as well as a way to extract systolic and diastolic pressures from the envelope of oscillations in any individual subject. Stiffness characteristics of the compressed artery segment can be extracted from the envelope shape to create an individualized mathematical model. The model is tested with a matrix of possible systolic and diastolic pressure values, and the minimum least squares difference between observed and predicted envelope functions indicates the best fit choices of systolic and diastolic pressure within the test matrix.
+
+In practice the different methods do not give identical results; an algorithm and experimentally obtained coefficients are used to adjust the oscillometric results to give readings which match the auscultatory results as well as possible. Accurate extraction of systolic and diastolic pressures from the envelope of cuff pressure oscillations remains an open problem in biomedical engineering. Since many oscillometric devices have not been validated, caution must be given as most are not suitable in clinical and acute care settings.
+
+via [wiki.](https://en.wikipedia.org/wiki/Blood_pressure_measurement)
+
 
 ## Features
 - [x] Blood Pressure Measurment - Systolic, Diastolic, Mean
@@ -25,9 +36,9 @@ This project is electronic blood pressure monitor research platform with Oscillo
 
 ## Hardware
 
-Project create is Eagle PCB 8.1.0 .
+Project create is Eagle PCB 8.1.0 .</br>
 
-<strong>V2 version, D1(BAT20) should be replaced with zero ohm resistor.</strong>
+<strong>V2 version, D1(BAT20) should be replaced with zero ohm resistor.</strong></br>
 
 ![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/assembly%20part%201.jpg?raw=true) 
 
@@ -38,18 +49,18 @@ Project create is Eagle PCB 8.1.0 .
 ### Key Component List
 
 - Electronics
-  - TB6612FNG (for PUMP and VALVE PID control)
-  - MPS-3117-006GC A2/A3(MEMS Wheatstone Bridge)
+- TB6612FNG (for PUMP and VALVE PID control)
+- MPS-3117-006GC A2/A3(MEMS Wheatstone Bridge)
 - Mechatronic
-  - 3V DC Air Pump Motor(JQB032-3A or DQB030-A-3V)
-  - 3V DC Electric Solenoid Valve(JQF1-3C1/DC3V Mini 10mm*15mm)
+- 3V DC Air Pump Motor(JQB032-3A or DQB030-A-3V)
+- 3V DC Electric Solenoid Valve(JQF1-3C1/DC3V Mini 10mm*15mm)
 - Cuff and Tubing
-  - 2mm*4mm Silicone Rubber Tubing x 2(20cm~30cm, for wrist cuff input and output)
-  - 2mm*4mm Silicone Rubber Tubing x 3(5cm~10cm, for T Type connector)
-  - 2mm*3mm T Type Plastic Barbed Connector
-  - 2mm*3mm Straight Plastic Barbed Connector x 3
-  - Wrist Air Cuff Input/Output(2 pinhole 2mm~3mm)
-  
+- 2mm*4mm Silicone Rubber Tubing x 2(20cm~30cm, for wrist cuff input and output)
+- 2mm*4mm Silicone Rubber Tubing x 3(5cm~10cm, for T Type connector)
+- 2mm*3mm T Type Plastic Barbed Connector
+- 2mm*3mm Straight Plastic Barbed Connector x 3
+- Wrist Air Cuff Input/Output(2 pinhole 2mm~3mm)
+
 ### Configure for Motor Electric Drives With Independent Power Supply - Battery2(U$19)
 - J1, J2 pin1 connect to pin2 - battery2 charge
 - J1, J2 pin2 connect to pin3 - motor drive with independent power supply
@@ -65,21 +76,21 @@ Project create is Eagle PCB 8.1.0 .
 
 ### Key Parameters
 
-PWM_Freq is DC Motor PWM frequency.
-TIM_Prescaler = (168M/2)/1M = 84M
-TIM_Period = TIMER_PWM_MAX/PWM_Freq = 1000
+PWM_Freq is DC Motor PWM frequency.</br>
+TIM_Prescaler = (168M/2)/1M = 84M</br>
+TIM_Period = TIMER_PWM_MAX/PWM_Freq = 1000</br>
 
-TIM = 84M / TIM_Prescaler = 1M
-TIM = 1M / TIM_ClockDivision = 1M
-1M / (TIM_Period + 1) = 1000Hz (1ms)
+TIM = 84M / TIM_Prescaler = 1M</br>
+TIM = 1M / TIM_ClockDivision = 1M</br>
+1M / (TIM_Period + 1) = 1000Hz (1ms)</br>
 <pre><code>
 const uint16_t PWM_Freq = 1000;
 </code></pre>
 
-ARR = TIMER_PWM_MAX;
-CCR = 0 to TIMER_PWM_MAX = 0 to 100% PWM.
-In this case, PID PWM step 1 to 100 mapped to 100000 to 1000000.
-TIMER_PWM_33 and TIMER_PWM_40 is 33% and 40% PWM for calibration hand control.
+ARR = TIMER_PWM_MAX;</br>
+CCR = 0 to TIMER_PWM_MAX = 0 to 100% PWM.</br>
+In this case, PID PWM step 1 to 100 mapped to 100000 to 1000000.</br>
+TIMER_PWM_33 and TIMER_PWM_40 is 33% and 40% PWM for calibration hand control.</br>
 <pre><code>
 const uint32_t PID_PWM_MIN = 1;
 const uint32_t PID_PWM_MAX = 100;
@@ -89,25 +100,25 @@ const uint32_t TIMER_PWM_33 = 330000;
 const uint32_t TIMER_PWM_40 = 400000;
 </code></pre>
 
-This is PID parameter, you need to redefine in ResetMeasurementParameter() function.
+This is PID parameter, you need to redefine in ResetMeasurementParameter() function.</br>
 <pre><code>
 Kp = 2, Ki = 0.3, Kd = 0.001; // for JQB032-3A
 </code></pre>
 
-AC signal amplitude point of Systolic and Diastolic BP.
+AC signal amplitude point of Systolic and Diastolic BP.</br>
 <pre><code>
 float as_am_value = 0.65f;
 float ad_am_value = 0.7f;
 </code></pre>
 
-Polynomial curve fitting is generated from 『Calibration ADC-DC to Mercury Manometer Pressure』, you'll need to create 『curve.csv』and execute PC-GUI software main.app or BPM.exe in the same folder, it will output the『equation.txt』.
-e.g. degree = 2, equation.txt format is : (-1.0620516546)x^0+(0.1262915457)x^1+(-0.0000012119)x^2 
+Polynomial curve fitting is generated from 『Calibration ADC-DC to Mercury Manometer Pressure』, you'll need to create 『curve.csv』and execute PC-GUI software main.app or BPM.exe in the same folder, it will output the『equation.txt』.</br>
+e.g. degree = 2, equation.txt format is : (-1.0620516546)x^0+(0.1262915457)x^1+(-0.0000012119)x^2 </br>
 <pre><code>
 float a[3] = {-0.0000012119f,0.1262915457f,-1.0620516546f};
 </code></pre>
 
-If pulse_value_N / total_pulse_value_mean > IPP_Ratio, pulse_N is irregular pulse peak, and IPP ratio range 15%~25%.
-If IPP number / total_pulse_number > IHB_Ratio, this measurement is irregular heart beat.
+If pulse_value_N / total_pulse_value_mean > IPP_Ratio, pulse_N is irregular pulse peak, and IPP ratio range 15%~25%.</br>
+If IPP number / total_pulse_number > IHB_Ratio, this measurement is irregular heart beat.</br>
 If two or more IHB of the three BP measurements, AF detected.<br>
 <pre><code>
 const float IPP_Ratio = 0.2f;
@@ -133,18 +144,18 @@ const float IHB_Ratio = 0.2f;
 
 ### Build
 - Win10
-  - 1.Open BPM.sln
-  - 2.Rebuild
+- 1.Open BPM.sln
+- 2.Rebuild
 - Mac High Sierra
-  - 1.make
-  
+- 1.make
+
 ### Dependence
 - Win10
-  - wxWidgets 3.1.2
-  - VS2017 - MSVC 10.0.17763-SDK
+- wxWidgets 3.1.2
+- VS2017 - MSVC 10.0.17763-SDK
 - Mac High Sierra
-  - wxWidgets 3.x
-  - g++
+- wxWidgets 3.x
+- g++
 
 ### Mac High Sierra GUI
 ![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/MAC%20OS%20X.png?raw=true)  
@@ -170,7 +181,7 @@ The two chart below show AC signal types, all of types are correct.
 
 ## Calibration ADC-DC to Mercury Manometer Pressure
 
-Pressure calibration reference is Mercury Manometer(Sphygmomanometer) or Aneroid Sphygmomanometer, you can buy products from Yuwell, Welch Allyn...etc 
+Pressure calibration reference is Mercury Manometer(Sphygmomanometer) or Aneroid Sphygmomanometer, you can buy products from Yuwell, Welch Allyn...etc </br>
 
 ### PC-GUI Software Control Steps
 - 1.Connecting device and PC-GUI software.
@@ -181,12 +192,12 @@ Pressure calibration reference is Mercury Manometer(Sphygmomanometer) or Aneroid
 - 6.Close PC-GUI software than reopen it, it will generate the『equation.txt』.
 - 7.copy equation and replace firmware parameter 『float a[3]』 in main.c.
 
-Column A is ADC0-value, B is Mercury Manometer mmHg pressure.
+Column A is ADC0-value, B is Mercury Manometer mmHg pressure.</br>
 ![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/calibration%20example.png?raw=true)  
 
 ## Atrial Fibrillation In Oscillometric Method Detect Algorithm
 
-Below are a few real world cases of the AFib(for example PCV, PAC), envelope wave lost some peaks.
+Below are a few real world cases of the AFib(for example PCV, PAC), envelope wave lost some peaks.</br>
 
 ### Premature Atrial Contractions
 
@@ -196,7 +207,7 @@ Below are a few real world cases of the AFib(for example PCV, PAC), envelope wav
 
 ### Premature Ventricular Contractions
 
-![alt text]/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/pvc%20ecg.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/pvc%20ecg.png?raw=true)  
 
 ![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/pvc%20oscillometric.png?raw=true)  
 
@@ -204,6 +215,8 @@ Below are a few real world cases of the AFib(for example PCV, PAC), envelope wav
 - Kabutoya, T., Imai, Y., Hoshide, S., & Kario, K. (2017). Diagnostic accuracy of a new algorithm to detect atrial fibrillation in a home blood pressure monitor. The Journal of Clinical Hypertension, 19(11), 1143-1147.
 
 - Ogedegbe, G., & Pickering, T. (2010). Principles and techniques of blood pressure measurement. Cardiology clinics, 28(4), 571-586.
+
+- Babbs, C. F. (2012). Oscillometric measurement of systolic and diastolic blood pressures validated in a physiologic mathematical model. Biomedical engineering online, 11(1), 56.
 
 - Geddes, L. A., Voelz, M., Combs, C., Reiner, D., & Babbs, C. F. (1982). Characterization of the oscillometric method for measuring indirect blood pressure. Annals of biomedical engineering, 10(6), 271-280.
 
