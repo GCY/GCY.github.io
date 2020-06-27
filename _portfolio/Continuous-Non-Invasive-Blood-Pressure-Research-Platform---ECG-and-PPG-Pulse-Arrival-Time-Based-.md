@@ -8,10 +8,11 @@ collection: portfolio
 <a href="https://github.com/GCY/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based-">Github</a>
 </p>
 
+Time Based
 This project is cuffless cNIBP research platform with ECG(two-electrode, without Right Leg Drive(RLD) ) and PPG(MAX3010x),  the Pulse Arrival Time (PAT) using ECG and PPG signal, measure the time delay(∆t) between QRS-Complex of the ECG signal and any one systolic peak of the PPG signal.
 
 <p align="center">
-<img src="/res/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based/v3%20demo.gif">
+ <img src="https://github.com/GCY/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based-/blob/master/res/v3%20demo.gif">
 </p>
 
 ## Hardware
@@ -39,13 +40,13 @@ coming soon...
 - Charger : TP4056*
 
 #### Note
-- TP4056 have mV level peak-to-peak noise... so, jump VBUS to switch... ![](/res/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based/without%20charger.png?raw=true)
+- TP4056 have mV level peak-to-peak noise... so, jump VBUS to switch... ![alt text](https://github.com/GCY/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based-/blob/master/res/without%20charger.png?raw=true)
 - Replace D1 to 0R resistor, reduce LDO VDDA noise.
 - Unplug the NB AC adapter.
 
+</br>
 
-
-![](/res/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based/v3%20pic.jpg?raw=true)
+![alt text](https://github.com/GCY/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based-/blob/master/res/v3%20pic.jpg?raw=true)
 
 ### V1
 - STM32F407
@@ -56,32 +57,32 @@ coming soon...
 - OUTPUT : UART
 
 ## Firmware
-This firmware only for testing, includes USB-FS VCP, Max3010x Spo2 algorithm, PPG and ECG signal oscilloscope display.
+This firmware only for testing, includes USB-FS VCP, Max3010x Spo2 algorithm, PPG and ECG signal oscilloscope display.</br>
 
-- cd ./firmware/stm32f405/src/
-- make
-- load elf file
-- run
+ - cd ./firmware/stm32f405/src/
+ - make
+ - load elf file
+ - run
 ## Software
 [wxECGAnalyzer](https://github.com/GCY/wxECGAnalyzer) is a QRS-Complex ECG signal process tool and QRS-Complex detection algorithm validation tools, [Pulse Oximeter MAX3010X](https://github.com/GCY/Pulse-Oximeter-with-MAX3010X) is a Spo2 signal process and r-ratio finetune tool, combining the two tools, could implement the PAT-BP regression algorithm.
 
 
+</br>
 
-
-![](/res/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based/example.png?raw=true)
+![alt text](https://github.com/GCY/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based-/blob/master/res/example.png?raw=true)
 
 ## Pulse Arrival Time Calculate
 
-![](/res/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based/PAT%20Calculate.png)
+![](https://github.com/GCY/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based-/blob/master/res/PAT%20Calculate.png)
 
 ## What's cuff-less blood pressure monitor and difference between Pulse Arrival Time(PAT) and Pulse Transit Time(PTT)
-In cuffless non-invasive blood pressure monitor field, we with the accurate calibration of PAT to BP, beat-to-beat BP can be estimated from PAT. On the basis of the theoretical relationship between PAT and BP and their experimental or empirical relationship, various models that correlate PAT with BP have been established.
+In cuffless non-invasive blood pressure monitor field, we with the accurate calibration of PAT to BP, beat-to-beat BP can be estimated from PAT. On the basis of the theoretical relationship between PAT and BP and their experimental or empirical relationship, various models that correlate PAT with BP have been established.</br>
+</br>
+PAT and BP with Regression: </br>
+![alt text](https://github.com/GCY/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based-/blob/master/res/PAT%20and%20Regression.png?raw=true)
 
-PAT and BP with Regression: 
-![](/res/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based/PAT%20and%20Regression.png?raw=true)
-
-
-
+</br>
+</br>
 Pulse transit time (PTT) is the time it takes for the pressure or flow wave to propagate between two arterial sites.
 PTT measured as the time delay between invasive proximal and distal blood pressure or flow, and PTT(propagate time) can be converted to Pulse Wave Velocity(PWV is speed unit).
 
@@ -99,20 +100,20 @@ Since the PEP component depends on the electromechanical functioning of the hear
 
 Because the ECG QRS-Complex is not the starting point for blood to actually enter the radial artery, it is a biopotential to depolarization of the sinus node
 
-
+</br>
 
 ## This project only for research
 
-
+</br>
 
 [![](http://img.youtube.com/vi/RtydQm8okKk/0.jpg)](https://www.youtube.com/watch?v=RtydQm8okKk)
 
 
-
+</br>
 
 ### Reference :
-- [1] Continuous Blood Pressure Measurement from Invasive to Unobtrusive: Celebration of 200th Birth Anniversary of Carl Ludwig
-- [2] Cuff-Less and Continuous Blood Pressure Monitoring: A Methodological Review
+- [1] Continuous Blood Pressure Measurement from Invasive to Unobtrusive: Celebration of 200th Birth Anniversary of Carl Ludwig</br>
+- [2] Cuff-Less and Continuous Blood Pressure Monitoring: A Methodological Review</br>
 - [3] https://www.egr.msu.edu/classes/ece480/capstone/spring13/group03/documents.html
 - [4] Cho, J., & Baek, H. J. (2020). A Comparative Study of Brachial–Ankle Pulse Wave Velocity and Heart–Finger Pulse Wave Velocity in Korean Adults. Sensors, 20(7), 2073.
-
+ 

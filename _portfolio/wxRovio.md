@@ -12,29 +12,22 @@ Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view w
 
 The Rovio uses a Killough platform for omnidirectional motion.
 
-<p align="center">
-<img src="/res/wxRovio/wxRovio%20Remote%20Control%20Demo.gif">
-</p>
+![WowWee Rovio](https://github.com/GCY/wxRovio/blob/master/res/WowWee%20Rovio.jpg)
 
-<p align="center">
-<img src="/res/wxRovio/WowWee%20Rovio.jpg">
-</p>
+![wxRovio Remote Control Demo](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif);
 
 ## wxRovio
 This is  cross platform GUI for WowWee Rovio control, Linux(Ubuntu) and Windows7.
 
-![win7](/res/wxRovio/wxRovio%20GUI%20windows7.png)
+![win7](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20GUI%20windows7.png)
 
-![ubuntu](/res/wxRovio/wxRovio%20GUI%20Ubuntu.png)
+![ubuntu](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20GUI%20Ubuntu.png)
 
-![camera setting](/res/wxRovio/Rovio%20Camera%20Setting.png)
-
-## Use
-Include "wxRovio Library ver.0.1.0" folder into your project. 
+![camera setting](https://github.com/GCY/wxRovio/blob/master/res/Rovio%20Camera%20Setting.png)
 
 ### Remote control RTSP video demo 
 
-[![](http://img.youtube.com/vi/EUUJY8NPWs8/0.jpg)](https://youtu.be/EUUJY8NPWs8)
+[![Audi R8](http://img.youtube.com/vi/EUUJY8NPWs8/0.jpg)](https://youtu.be/EUUJY8NPWs8)
 
 Licensing
 =======
