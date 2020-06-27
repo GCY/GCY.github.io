@@ -19,7 +19,7 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 
 
 <p align="center">
-  <img src="https://github.com/GCY/wxECGAnalyzer/blob/master/res/demo.gif">
+  <img src="/res/wxECGAnalyzer/demo.gif">
 </p>
 
 ## Use
@@ -34,17 +34,17 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 - Win10
   - 1.Open wxECGAnalyzer.sln
   - 2.Rebuild
-![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/win10.PNG?raw=true)  
+![alt text](/res/wxECGAnalyzer/win10.PNG?raw=true)  
 - Mac High Sierra
   - 1.Make
-![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/high%20sierra.png?raw=true) 
+![alt text](/res/wxECGAnalyzer/high%20sierra.png?raw=true) 
 ### Operation Manual
   - Clinical trial
     - 1.Setup your ECG device to  clinical trial.
     - 2.Connect VCP to wxECGAnalyzer. (Tools -> VCP, select cu or COM devices,bouadrate is UART only)
     - 3.Monitor target.
     - 4.Segmentation and save target morphology of the ECG.(you can modify the windows-size, tihs project is 700ms)
-    - 5.Select [ECG-Codes](https://github.com/GCY/wxECGAnalyzer/blob/master/src/MAC/define.h) to labeling.
+    - 5.Select [ECG-Codes](/res/wxECGAnalyzer/MAC/define.h) to labeling.
     
 [Snapshot.csv](https://github.com/GCY/wxECGAnalyzer/blob/master/res/snapshot.csv): example file.
     ![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/snapshot.png?raw=true) 
@@ -107,13 +107,13 @@ The Pan-Tompkins filter of classical version is design for 200Hz and band-pass 5
 Running on STM32F407 clock 168MHz and enable FPU, y-axix time uint is nanoseconds, x-axix is signal point.
 Charts below show runtime environment time complexity, Adative Threshold Algorithm complexity is follow gradient threshold(step edge), the QRS-complex detection of the classical Pan-Tompkins algorithm mainly complexity is Search Back, HC Chen and So&Chen relatively stable.
 #### Adaptive Threshold Algorithm (Average : 8.100692259ns)
-![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/ata%20time.png?raw=true)  
+![alt text](/res/wxECGAnalyzer/ata%20time.png?raw=true)  
 #### HC Chen (Average : 2.060941828ns)
-![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/hc%20chen%20time.png?raw=true)  
+![alt text](/res/wxECGAnalyzer/hc%20chen%20time.png?raw=true)  
 #### Enhanced So & Chen (Average : 2.074ns)
-![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/so%20and%20chen%20time.png?raw=true)  
+![alt text](/res/wxECGAnalyzer/so%20and%20chen%20time.png?raw=true)  
 #### Pan-Tompkins (Average : 548.0295567ns)
-![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/pt%20time.png?raw=true)  
+![alt text](/res/wxECGAnalyzer/pt%20time.png?raw=true)  
 ### Heart Rate Variability
 Heart Rate and HRV are move-average in the implementation, N = BEAT_SIZE = 16.
 ## Experiment device
