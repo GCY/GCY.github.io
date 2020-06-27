@@ -44,9 +44,9 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
     - 2.Connect VCP to wxECGAnalyzer. (Tools -> VCP, select cu or COM devices,bouadrate is UART only)
     - 3.Monitor target.
     - 4.Segmentation and save target morphology of the ECG.(you can modify the windows-size, tihs project is 700ms)
-    - 5.Select [ECG-Codes](/res/wxECGAnalyzer/MAC/define.h) to labeling.
+    - 5.Select [ECG-Codes](/res/wxECGAnalyzer/src/MAC/define.h) to labeling.
     
-[Snapshot.csv](https://github.com/GCY/wxECGAnalyzer/blob/master/res/snapshot.csv): example file.
+[Snapshot.csv](/res/wxECGAnalyzer/snapshot.csv): example file.
     ![alt text](https://github.com/GCY/wxECGAnalyzer/blob/master/res/snapshot.png?raw=true) 
   - Validation of Algorithm for Real-time Embedded Systems(Holter)
     - 1.Add *.cpp and .h file, and create new wxRadioBox item to apply.
