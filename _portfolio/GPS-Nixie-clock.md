@@ -10,7 +10,7 @@ collection: portfolio
 
 This is GPS Nixie clock,include IN12B, IN14, IN16, and IN2 version.
 
-![alt text](/res/GPS-Nixie-clock/nixie%20clock.png)
+![alt text](/res/GPS-Nixie-clock/nixie%20clock.jpg)
 
 ## Firmware
 ### Parameter
