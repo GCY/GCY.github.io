@@ -1,6 +1,6 @@
 ---
 title: "WowWee Rovio cross platform GUI controller"
-excerpt: "Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view what the robot's webcam sees from anywhere in the world. It can be accessed and controlled via an internet connection from any PC, Mac, Cell Phone, Smartphone, PDA or PSP. <br/> <img src='/res/wxRovio/WowWee%20Rovio.jpg'  width='500' height='500'>"
+excerpt: "Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view what the robot's webcam sees from anywhere in the world. It can be accessed and controlled via an internet connection from any PC, Mac, Cell Phone, Smartphone, PDA or PSP. <br/> <img src='/res/wxRovio/wxRovio%20Remote%20Control%20Demo.gif'  width='500' height='500'>"
 collection: portfolio
 ---
 
