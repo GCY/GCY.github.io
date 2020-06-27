@@ -20,13 +20,13 @@ This device is Geiger-Muller Counter ,and True Random Number Generator(TRNG) use
 - [x] True Random Number Generator - Serial Port Output 8bit TRNG
 
 
-![alt text](https://github.com/GCY/MSP430G2-Geiger-Counter/blob/master/res/20200325_024932.jpg?raw=true)
+![alt text](/res/MSP430G2-Geiger-Counter/20200325_024932.jpg?raw=true)
 
 
-![alt text](https://github.com/GCY/MSP430G2-Geiger-Counter/blob/master/res/20200325_024958.jpg?raw=true)
+![alt text](/res/MSP430G2-Geiger-Counter/20200325_024958.jpg?raw=true)
 
 
-![alt text](https://github.com/GCY/MSP430G2-Geiger-Counter/blob/master/res/20200406_174812.jpg?raw=true)
+![alt text](/res/MSP430G2-Geiger-Counter/20200406_174812.jpg?raw=true)
 
 
 ## Hardware
@@ -46,7 +46,7 @@ This device is Geiger-Muller Counter ,and True Random Number Generator(TRNG) use
 
 
 
-![alt text](https://github.com/GCY/MSP430G2-Geiger-Counter/blob/master/res/ldo%20replace%20to%20diode.png?raw=true)
+![alt text](/res/MSP430G2-Geiger-Counter/ldo%20replace%20to%20diode.png?raw=true)
 
 ### Light Sensitive Problem (J321βγ, M4011)
 [Reference This Discussion](http://www.gqelectronicsllc.com/forum/topic.asp?TOPIC_ID=4540)
@@ -123,9 +123,9 @@ if(random_number_size == 8){
 </code></pre>
 
 
-![alt text](https://github.com/GCY/MSP430G2-Geiger-Counter/blob/master/res/energia%20serial%20monitor.png?raw=true)
+![alt text](/res/MSP430G2-Geiger-Counter/energia%20serial%20monitor.png?raw=true)
 
-![alt text](https://github.com/GCY/MSP430G2-Geiger-Counter/blob/master/res/histogram.png?raw=true)
+![alt text](/res/MSP430G2-Geiger-Counter/histogram.png?raw=true)
 
 ### Encrypt Software Demo
 

@@ -12,7 +12,7 @@ collection: portfolio
 This project is MAX3010x library for STM32F4, currently supported MAX30100、MAX30102. 
 The Pulse Oximeter Monitor is a simple PC-Host tool for PPG signal used in pulse oximetry for the computation of oxygen saturation(SpO2).  
 
-![MAX30102](https://github.com/GCY/Pulse-Oximeter-with-MAX3010X/blob/master/res/max30102.jpg)
+![MAX30102](/res/Pulse-Oximeter-with-MAX3010X/max30102.jpg)
 
 ## USE
 ### 1. Pulse Oximeter Monitor Compile：
@@ -33,7 +33,7 @@ First, select MAX3010x type.
 
 ### Demo：
 
-![MAX30102 DEMO](https://github.com/GCY/Pulse-Oximeter-with-MAX3010X/blob/master/res/MAX30102%20Demo.gif)
+![MAX30102 DEMO](/res/Pulse-Oximeter-with-MAX3010X/MAX30102%20Demo.gif)
 
 
 
@@ -46,7 +46,7 @@ First, select MAX3010x type.
 The aim of pulse oximetry is to measure the percentage of oxygenated hemoglobin (HbO2) to the total hemoglobin (Hb) (oxygenated plus deoxygenated) in the arterial blood – this is referred to as SpO2. Oxygenated hemoglobin in the blood is distinctively red, whereas deoxygenated hemoglobin in the blood has a characteristic dark blue coloration. measures light absorbance at one wavelength (or more wavelengths) where there is a large difference between Hb and HbO2 and at another wavelength (or more wavelengths) to quantify oxygen saturation
 
 Absorption spectroscopy – oxygen saturation
-![Biomedical Photonics Handbook, Figure 29.2](https://github.com/GCY/Pulse-Oximeter-with-MAX3010X/blob/master/res/Biomedical%20Photonics%20Handbook%2C%20Figure%2029.2.png)
+![Biomedical Photonics Handbook, Figure 29.2](/res/Pulse-Oximeter-with-MAX3010X/Biomedical%20Photonics%20Handbook%2C%20Figure%2029.2.png)
 
 For SpO2 measure the ratios between our two readings(IR and RED), on base level their DC levels should be nearly identical.
 
@@ -64,7 +64,7 @@ decay_factor = exp(decay_coeff * decay_counter);
 
 If decay_coeff or RED_LED_CURRENT_ADJUSTMENT_NS too small, it will result in a lot of oscillation.
 
-![Adjustment Strategy](https://github.com/GCY/Pulse-Oximeter-with-MAX3010X/blob/master/res/DC-Level%20adjustment%20strategies.png)
+![Adjustment Strategy](/res/Pulse-Oximeter-with-MAX3010X/DC-Level%20adjustment%20strategies.png)
 
 Finally, the normalized R/IR “ratio of ratios” can then be related empirically to SpO2.
 ```cpp

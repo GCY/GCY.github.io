@@ -10,7 +10,7 @@ collection: portfolio
 
 This is GPS Nixie clock,include IN12B, IN14, IN16, and IN2 version.
 
-![alt text](https://github.com/GCY/Nixie-Clock/blob/master/nixie%20clock.png)
+![alt text](/res/GPS-Nixie-clock/nixie%20clock.png)
 
 ## Firmware
 ### Parameter
@@ -66,7 +66,7 @@ g++ -o2 -o wxnixieclock.app wxnixieclock.cpp serialport.cpp connectargsdlg.cpp \
 
 
 
-![alt text](https://github.com/GCY/GPS-Nixie-Clock/blob/master/wxNixieClock/pic.png)
+![alt text](/res/GPS-Nixie-clock//wxNixieClock/pic.png)
 
 
 
