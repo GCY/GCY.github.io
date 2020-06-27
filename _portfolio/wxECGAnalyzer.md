@@ -84,8 +84,8 @@ For algorithm performance, in ANSI/AAMI EC38,it is required that the detected QR
 - [x] Other Operate  
   - [x] Record RAW data(60s)
   - [x] Save four plot(.png)  
-  - [x] Fast Furious Transform(FFT) amplitude spectrum
-  - [x] Connect serial port
+- [x] Fast Furious Transform(FFT) amplitude spectrum
+- [x] Connect serial port
 
 ## The point of QRS-Complex Detection Algorithm
 ### Finite Impulse Response
