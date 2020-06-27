@@ -10,9 +10,9 @@ collection: portfolio
 
 This project is electronic blood pressure monitor research platform with Oscillometric method, include SBP and DBP estimate algorithm, Atrial Fibrillation detection algorithm, calibration curve, GUI tool for fine-tune BP algorithm...etc, ofcourse, this is research use only.
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/v2%20pcb.jpg?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/v2%20pcb.jpg?raw=true)  
 
-![](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/demo.gif) 
+![](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/demo.gif) 
 
 
 ## Features
@@ -28,11 +28,11 @@ Project create is Eagle PCB 8.1.0 .
 
 <strong>V2 version, D1(BAT20) should be replaced with zero ohm resistor.</strong>
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/assembly%20part%201.jpg?raw=true) 
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/assembly%20part%201.jpg?raw=true) 
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/assembly%20part%202.jpg?raw=true) 
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/assembly%20part%202.jpg?raw=true) 
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/t-type%20and%20direct%20connector.jpg?raw=true) 
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/t-type%20and%20direct%20connector.jpg?raw=true) 
 
 ### Key Component List
 
@@ -114,13 +114,13 @@ const float IHB_Ratio = 0.2f;
 </code></pre>
 
 ### Operation Flowchart
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/operation%20flowchart.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/operation%20flowchart.png?raw=true)  
 
 ### DC/AC Signal Process Flowchart
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/signal%20process%20flowchart.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/signal%20process%20flowchart.png?raw=true)  
 
 ### Measurment Flowchart
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/measurment%20flowchart.png?raw=true) 
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/measurment%20flowchart.png?raw=true) 
 
 ### BPM Mode Demo
 [![Audi R8](http://img.youtube.com/vi/4AQXaJOquz4/0.jpg)](https://youtu.be/4AQXaJOquz4)
@@ -146,10 +146,10 @@ const float IHB_Ratio = 0.2f;
   - g++
 
 ### Mac High Sierra GUI
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/MAC%20OS%20X.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/MAC%20OS%20X.png?raw=true)  
 
 ### Win10 GUI
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/WIN10.PNG?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/WIN10.PNG?raw=true)  
 
 ### Operation Manual
 - Menu Tools -> VCP is connect to device.
@@ -162,10 +162,10 @@ const float IHB_Ratio = 0.2f;
 The two chart below show AC signal types, all of types are correct.
 
 ### Type1 AC Signal
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/type1.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/type1.png?raw=true)  
 
 ### Type2 AC Signal
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/type2.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/type2.png?raw=true)  
 
 ## Calibration ADC-DC to Mercury Manometer Pressure
 
@@ -181,7 +181,7 @@ Pressure calibration reference is Mercury Manometer(Sphygmomanometer) or Aneroid
 - 7.copy equation and replace firmware parameter 『float a[3]』 in main.c.
 
 Column A is ADC0-value, B is Mercury Manometer mmHg pressure.
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/calibration%20example.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/calibration%20example.png?raw=true)  
 
 ## Atrial Fibrillation In Oscillometric Method Detect Algorithm
 
@@ -189,15 +189,15 @@ Below are a few real world cases of the AFib(for example PCV, PAC), envelope wav
 
 ### Premature Atrial Contractions
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/pac%20ecg.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/pac%20ecg.png?raw=true)  
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/pac%20oscillometric.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/pac%20oscillometric.png?raw=true)  
 
 ### Premature Ventricular Contractions
 
 ![alt text]/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/pvc%20ecg.png?raw=true)  
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/pvc%20oscillometric.png?raw=true)  
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/pvc%20oscillometric.png?raw=true)  
 
 ## Reference
 - Kabutoya, T., Imai, Y., Hoshide, S., & Kario, K. (2017). Diagnostic accuracy of a new algorithm to detect atrial fibrillation in a home blood pressure monitor. The Journal of Clinical Hypertension, 19(11), 1143-1147.
@@ -238,4 +238,4 @@ OSHW Certification
 
 https://certification.oshwa.org/tw000002.html
 
-![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method-/OSHW_mark_TW000002.png?raw=true) 
+![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/OSHW_mark_TW000002.png?raw=true) 
