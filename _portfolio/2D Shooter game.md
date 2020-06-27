@@ -11,16 +11,16 @@ collection: portfolio
 <title>2D-STG</title>
 </head>
 
-<p align="center">
-<img src="/res/2D-STG/demo.gif">
-</p>
-
 <body>
 
 <p align = "center">
 <font face = "Arial" size = "24">
 2D-STG
 </font>
+</p>
+
+<p align="center">
+<img src="/res/2D-STG/demo.gif">
 </p>
 
 <p align = "center">
