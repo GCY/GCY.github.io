@@ -10,10 +10,11 @@ collection: portfolio
 
 This project is electronic blood pressure monitor research platform with Oscillometric method, include SBP and DBP estimate algorithm, Atrial Fibrillation detection algorithm, calibration curve, GUI tool for fine-tune BP algorithm...etc, ofcourse, this is research use only.
 
+<p align="center">
+  <img src="/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/demo.gif">
+</p>  
+
 ![alt text](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/v2%20pcb.jpg?raw=true)  
-
-![](/res/Atrial-Fibrillation-Detection-Blood-Pressure-Monitor-Oscillometric-Method/demo.gif) 
-
 
 ## Features
 - [x] Blood Pressure Measurment - Systolic, Diastolic, Mean
