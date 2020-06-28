@@ -1,6 +1,6 @@
 ---
 title: "MEMObook Inc."
-excerpt: "Algorithm RD, Memobook | Oct 2014 – Jun 2015
+excerpt: "Algorithm RD, Memobook│ Oct 2014 – Jun 2015
 <br/><img src='/res/MEMObook%20Inc/chungli_01_b.jpg'><br/>
 <img src='/res/MEMObook%20Inc/index_02.jpg'>"
 collection: research
