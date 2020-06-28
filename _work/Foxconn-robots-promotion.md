@@ -18,5 +18,49 @@ collection: research
 </p>
 
 <p align="center">
-    <img src="/res/foxconn-robots-event/ntuch-show/p4.jpg" width="800" height="600">
+    <img src="/res/foxconn-robots-event/ntuch-show/p4.png" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/ntsec/p1.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/ntsec/p2.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/ntsec/p3.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/acres2017/p1.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/acres2017/p2.jpg" width="600" height="800">
+</p>
+
+<p align="center">
+    < img src="/res/foxconn-robots-event/acres2017/p3.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/acres2017/p4.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/acres2017/p5.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/acres2017/p6.jpg" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/2017-taiwan-healthcare-expo/p1.JPG" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-robots-event/2017-taiwan-healthcare-expo/p2.JPG" width="800" height="600">
 </p>
