@@ -5,6 +5,8 @@ excerpt: "Consultant, R&D Center Robotics Subsidiary │ Jan 2017 – Feb 2018<b
 collection: research
 ---
 
+[![](http://img.youtube.com/vi/n8c-wDU18Mg/0.jpg)](https://youtu.be/n8c-wDU18Mg "")
+
 <p align="center">
     <img src="/res/foxconn-robots-event/ntuch-show/p1.jpg" width="800" height="600">
 </p>
@@ -32,6 +34,8 @@ collection: research
 <p align="center">
     <img src="/res/foxconn-robots-event/ntsec/p3.jpg" width="800" height="600">
 </p>
+
+[![](http://img.youtube.com/vi/RxqA9h2p6ck/0.jpg)](https://youtu.be/RxqA9h2p6ck "")
 
 <p align="center">
     <img src="/res/foxconn-robots-event/acres2017/p1.jpg" width="800" height="600">
