@@ -42,7 +42,7 @@ collection: research
 </p>
 
 <p align="center">
-    < img src="/res/foxconn-robots-event/acres2017/p3.jpg" width="800" height="600">
+    <img src="/res/foxconn-robots-event/acres2017/p3.jpg" width="800" height="600">
 </p>
 
 <p align="center">
