@@ -37,7 +37,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p7.jpg" width="800" height="600">
+    <img src="/res/NTUMC/DH/gui.png" width="800" height="600">
 </p>
 
 <p align="center">
