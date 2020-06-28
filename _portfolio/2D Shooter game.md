@@ -39,7 +39,9 @@ Source Code
 <p align = "left">
 <b>Build Command：</b>
 javac STG.java
+</p>
 
+<p align = "left">
 <b>appletviewer run：</b>
 appletviewer STG.html
 </p>
@@ -77,4 +79,4 @@ SPACE＋SHIFT
 
 </html>
 
-![](https://www.youtube.com/watch?v=9wLb9kf7ly4)
+[![](http://img.youtube.com/vi/9wLb9kf7ly4/0.jpg)](https://www.youtube.com/watch?v=9wLb9kf7ly4 "2D-STG")
