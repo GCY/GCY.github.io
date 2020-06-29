@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 [![](http://img.youtube.com/vi/mwJW_ZBdZ-g/0.jpg)](https://youtu.be/mwJW_ZBdZ-g "demo")
 
 <p align="center">
-    <img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600">
+    <a href="https://youtu.be/mwJW_ZBdZ-g"><img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600">
 </p>
 
 <p align="center">
