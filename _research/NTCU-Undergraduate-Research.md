@@ -25,6 +25,10 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
+    <img src="/res/undergraduate-research/pose-calc.png" width="600" height="800">
+</p>
+
+<p align="center">
     <img src="/res/undergraduate-research/dataset-example.png" width="800" height="600">
 </p>
 
