@@ -1,6 +1,6 @@
 ---
 title: "2D Shooter game"
-excerpt: "This is NTCU CSIE 2011 OOP course final project written in java. <br/> <img src='/res/2D-STG/demo.gif'>"
+excerpt: "This is NTCU CSIE 2011 Object Oriented Programming course final project written in java. <br/> <img src='/res/2D-STG/demo.gif'>"
 collection: portfolio
 ---
 
@@ -19,9 +19,7 @@ collection: portfolio
 </font>
 </p>
 
-<p align="center">
-<img src="/res/2D-STG/demo.gif">
-</p>
+<p align="center"><a href="https://www.youtube.com/watch?v=9wLb9kf7ly4"><img src="/res/2D-STG/demo.gif" width="800" height="600"></a></p>
 
 <p align = "center">
 <applet code = "STG.class" width = "640" height = "480">
