@@ -17,12 +17,32 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
+    <img src="/res/undergraduate-research/program-arch.png" width="800" height="600">
+</p>
+
+<p align="center">
     <img src="/res/undergraduate-research/skeleton.png" width="600" height="800">
 </p>
 
-|<p align="center">
+<p align="center">
+    <img src="/res/undergraduate-research/dataset-example.png" width="600" height="800">
+</p>
+
+<p align="center">
+    <img src="/res/undergraduate-research/training-program.png" width="600" height="800">
+</p>
+
+<p align="center">
+    <img src="/res/undergraduate-research/Postures-classification.png" width="600" height="800">
+</p>
+
+<p align="center">
+    <img src="/res/undergraduate-research/result.png" width="600" height="800">
+</p>
+
+<p align="center">
     <img src="/res/undergraduate-research/kinect-add-x-axis.png" width="800" height="600">
-</p>|
+</p>
 <p align="center">
     <img src="/res/undergraduate-research/servo-controller.jpg" width="800" height="600">
-</p>|
+</p>
