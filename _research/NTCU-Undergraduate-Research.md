@@ -40,9 +40,8 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     <img src="/res/undergraduate-research/result.png" width="800" height="600">
 </p>
 
-<p align="center">
-    <img src="/res/undergraduate-research/FaceIdentify%20Demo.gif" width="800" height="600">
-</p>
+
+<p align="center"><a href="https://youtu.be/6yLbgtvzfQ4"><img src="/res/undergraduate-research/FaceIdentify%20Demo.gif" width="800" height="600"></a></p>
 
 <p align="center">
     <img src="/res/undergraduate-research/hand-open.png" width="600" height="800">
@@ -52,9 +51,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     <img src="/res/undergraduate-research/hand-close.png" width="600" height="800">
 </p>
 
-<p align="center">
-    <img src="/res/undergraduate-research/kinect-track.gif" width="800" height="600">
-</p>
+<p align="center"><a href="https://youtu.be/3z2oSk4kzhQ"><img src="/res/undergraduate-research/kinect-track.gif" width="800" height="600"></a></p>
 <p align="center">
     <img src="/res/undergraduate-research/kinect-add-x-axis.png" width="800" height="600">
 </p>
