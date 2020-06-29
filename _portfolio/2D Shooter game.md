@@ -19,7 +19,7 @@ collection: portfolio
 </font>
 </p>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=9wLb9kf7ly4"><img src="/res/2D-STG/demo.gif" width="800" height="600"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=9wLb9kf7ly4"><img src="/res/2D-STG/demo.gif"></a></p>
 
 <p align = "center">
 <applet code = "STG.class" width = "640" height = "480">
