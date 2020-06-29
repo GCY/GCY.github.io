@@ -1,6 +1,6 @@
 ---
-title: "work item number 5"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Foxconn Technology Group - Yonglin Biotech: New Business Development Department"
+excerpt: "DISC<br/><img src='/images/500x300.png'>"
 collection: research
 ---
 
