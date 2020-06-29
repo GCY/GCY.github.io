@@ -20,10 +20,9 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     <img src="/res/undergraduate-research/skeleton.png" width="600" height="800">
 </p>
 
-<p align="center">
+|<p align="center">
     <img src="/res/undergraduate-research/kinect-add-x-axis.png" width="800" height="600">
-</p>
-|
+</p>|
 <p align="center">
     <img src="/res/undergraduate-research/servo-controller.jpg" width="800" height="600">
-</p>
+</p>|
