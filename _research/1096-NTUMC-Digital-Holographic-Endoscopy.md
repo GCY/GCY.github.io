@@ -1,5 +1,5 @@
 ---
-title: "Digital Holographic - Endoscopy Surface Profile Measurement with Diffraction Grating of Element (DOE) "
+title: "Digital Holographic & Structured Light - Endoscopy Surface Profile Measurement with Diffractive Optical Element (DOE) "
 excerpt: "Research Assistant, Institute of Medical Device and Imaging│ Jul 2015 - Jul 2017 <br/><img src='/res/NTUMC/DH/gui.png'>"
 collection: research
 ---
