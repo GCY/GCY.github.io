@@ -11,7 +11,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 [![](http://img.youtube.com/vi/Gp3Wjc-o23g/0.jpg)](https://youtu.be/Gp3Wjc-o23g "demo")
 
 <p align="center">
-    <img src="/res/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="800" height="600">
+    <img src="/res/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="600" height="800">
 </p>
 
 <p align="center">
