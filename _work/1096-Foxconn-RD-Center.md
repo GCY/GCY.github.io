@@ -31,5 +31,5 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/foxconn-project/TPR/patent.png" width="800" height="600">
+    <img src="/res/foxconn-project/robot/patent.png" width="800" height="600">
 </p>
