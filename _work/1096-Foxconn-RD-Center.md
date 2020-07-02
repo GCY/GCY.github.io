@@ -23,9 +23,13 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/foxconn-project/robot/p4.png" width="800" height="600">
+    <img src="/res/foxconn-robots-event/ntuch-show/p4.png" width="800" height="600">
 </p>
 
 <p align="center">
     <img src="/res/foxconn-project/robot/ntuch-map.png" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/foxconn-project/TPR/patent.png" width="800" height="600">
 </p>
