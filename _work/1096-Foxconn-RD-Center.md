@@ -1,6 +1,6 @@
 ---
 title: "Foxconn Technology Group - Yonglin Biotech: Research and Development Center"
-excerpt: "Short description of portfolio item number 1<br/><img src='/foxconn-project/robot/robohon-papper.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/res/foxconn-project/robot/robohon-papper.png'>"
 collection: research
 ---
 
@@ -11,21 +11,21 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 [![](http://img.youtube.com/vi/Fi3o05xr-bU/0.jpg)](https://youtu.be/Fi3o05xr-bU "demo")
 
 <p align="center">
-    <img src="/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="800" height="600">
+    <img src="/res/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="800" height="600">
 </p>
 
 <p align="center">
-    <img src="/foxconn-project/robot/EEG-diagram.png" width="800" height="600">
+    <img src="/res/foxconn-project/robot/EEG-diagram.png" width="800" height="600">
 </p>
 
 <p align="center">
-    <img src="/foxconn-project/robot/robohon-control-tools.png" width="800" height="600">
+    <img src="/res/foxconn-project/robot/robohon-control-tools.png" width="800" height="600">
 </p>
 
 <p align="center">
-    <img src="/foxconn-project/robot/p4.png" width="800" height="600">
+    <img src="/res/foxconn-project/robot/p4.png" width="800" height="600">
 </p>
 
 <p align="center">
-    <img src="/foxconn-project/robot/ntuch-map.png" width="800" height="600">
+    <img src="/res/foxconn-project/robot/ntuch-map.png" width="800" height="600">
 </p>
