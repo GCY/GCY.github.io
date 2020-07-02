@@ -34,3 +34,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <p align="center">
     <img src="/foxconn-project/TPR/10ghz-chamber.jpg" width="800" height="600">
 </p>
+
+<p align="center">
+    <img src="/foxconn-project/TPR/patent.png" width="800" height="600">
+</p>
