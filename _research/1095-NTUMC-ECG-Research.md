@@ -29,7 +29,3 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <p align="center">
     <img src="/res/NTUMC/ECG/thesis.png" width="800" height="600">
 </p>
-
-[![](http://img.youtube.com/vi/rzigU-sPsLI/0.jpg)](https://www.youtube.com/rzigU-sPsLI "demo")
-
-[![](http://img.youtube.com/vi/jRTbUC2dFqI/0.jpg)](https://www.youtube.com/jRTbUC2dFqI "demo")
