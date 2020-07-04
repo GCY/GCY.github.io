@@ -64,7 +64,3 @@ collection: research
 <p align="center">
     <img src="/res/foxconn-robots-event/2017-taiwan-healthcare-expo/p1.JPG" width="800" height="600">
 </p>
-
-<p align="center">
-    <img src="/res/foxconn-robots-event/2017-taiwan-healthcare-expo/p2.JPG" width="800" height="600">
-</p>
