@@ -1,5 +1,5 @@
 ---
-title: "Accurate MediTech"
+title: "Accurate Meditech Inc."
 excerpt: "Short description of portfolio item number 1<br/><img src='/res/AccurateMediTech/medica2019-sample.jpg' width='800' height='600'>"
 collection: research
 ---
