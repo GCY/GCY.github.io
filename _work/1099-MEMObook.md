@@ -1,7 +1,7 @@
 ---
 title: "MEMObook Inc."
 excerpt: "Algorithm RD, Memobook│ Oct 2014 – Jun 2015
-<br/><img src='/res/MEMObook%20Inc/demo.gif'  width='600' height='800'>"
+<br/><img src='/res/MEMObook%20Inc/demo.gif'  width='200' height='300'>"
 collection: research
 ---
 
@@ -15,7 +15,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     <img src="/res/MEMObook%20Inc/memogift%20app%20demo.png" width="800" height="600">
 </p>
 
-<p align="center"><a href="https://youtu.be/-UN4db7pVAY"><img src="/res/MEMObook%20Inc/demo.gif" width="300" height="500"></a></p>
+<p align="center"><a href="https://youtu.be/-UN4db7pVAY"><img src="/res/MEMObook%20Inc/demo.gif" width="200" height="300"></a></p>
 
 <p align="center">
     <img src="/res/MEMObook%20Inc/booth.JPG" width="800" height="600">
