@@ -11,7 +11,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/ECG/PROTOTYPE.png" width="600" height="800">
+    <img src="/res/NTUMC/ECG/PROTOTYPE.png" width="800" height="600">
 </p>
 
 <p align="center">
@@ -28,4 +28,8 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 <p align="center">
     <img src="/res/NTUMC/ECG/thesis.png" width="800" height="600">
+</p>
+
+<p align="center">
+    <img src="/res/NTUMC/ECG/patent.png" width="600" height="800">
 </p>

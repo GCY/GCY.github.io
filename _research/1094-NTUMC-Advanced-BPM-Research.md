@@ -34,3 +34,8 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 [![](http://img.youtube.com/vi/Lj32AcVmlMo/0.jpg)](https://www.youtube.com/Lj32AcVmlMo "demo")
 
 [![](http://img.youtube.com/vi/4YLERHLjYTU/0.jpg)](https://www.youtube.com/4YLERHLjYTU "demo")
+
+
+<p align="center">
+    <img src="/res/NTUMC/BPM/patent.png" width="600" height="800">
+</p>
