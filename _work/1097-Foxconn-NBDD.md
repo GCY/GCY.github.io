@@ -1,6 +1,6 @@
 ---
 title: "Foxconn Technology Group - Yonglin Biotech: New Business Development Department"
-excerpt: "DISC<br/><img src='/res/foxconn-project/TPR/diagram.png'>"
+excerpt: "DISC<br/><img src='/res/foxconn-project/TPR/diagram.png'  width='800' height='600'>"
 collection: research
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Shenlearn"
 excerpt: "Co-Founder CTO, Shenlearn (Doit) │ Jun 2013 - Aug 2015
-<br/><img src='/res/Shenlearn/system.png'>"
+<br/><img src='/res/Shenlearn/system.png'  width='800' height='600'>"
 collection: research
 ---
 

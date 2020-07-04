@@ -1,6 +1,6 @@
 ---
 title: "Human Posture Recognition Based on Neural Network in Robot Controlling"
-excerpt: "NTCU 2012-2013 Undergraduate-Research<br/>Cheng-Yan Guo, Liang Hung.<br/> Advisor: Chorng-Shiuh Koong, Ph.D.<br/><img src='/res/undergraduate-research/GUI-Demo.gif'>"
+excerpt: "NTCU 2012-2013 Undergraduate-Research<br/>Cheng-Yan Guo, Liang Hung.<br/> Advisor: Chorng-Shiuh Koong, Ph.D.<br/><img src='/res/undergraduate-research/GUI-Demo.gif'  width='800' height='600'>"
 collection: research
 ---
 

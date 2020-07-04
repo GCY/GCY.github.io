@@ -1,6 +1,6 @@
 ---
 title: "Arrhythmia Electrocardiogram(ECG) Signal Process Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/NTUMC/ECG/patent.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/res/NTUMC/ECG/patent.png'  width='800' height='600'>"
 collection: research
 ---
 

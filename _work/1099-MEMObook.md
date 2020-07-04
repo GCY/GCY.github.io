@@ -1,7 +1,7 @@
 ---
 title: "MEMObook Inc."
 excerpt: "Algorithm RD, Memobook│ Oct 2014 – Jun 2015
-<br/><img src='/res/MEMObook%20Inc/memogift%20app%20demo.png'>"
+<br/><img src='/res/MEMObook%20Inc/memogift%20app%20demo.png'  width='800' height='600'>"
 collection: research
 ---
 
