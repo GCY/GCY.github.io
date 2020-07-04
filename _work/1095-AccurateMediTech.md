@@ -1,6 +1,6 @@
 ---
-title: "work item number 5"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Accurate MediTech"
+excerpt: "Short description of portfolio item number 1<br/><img src='/res/AccurateMediTech/medica2019-sample.jpg' width='800' height='600'>"
 collection: research
 ---
 
