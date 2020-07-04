@@ -1,6 +1,6 @@
 ---
 title: "Advanced Blood Pressure Monitor Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/NTUMC/BPM/patent.png'  width='800' height='600'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/res/NTUMC/BPM/patent.png'  width='600' height='800'>"
 collection: research
 ---
 

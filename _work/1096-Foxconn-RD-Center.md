@@ -1,6 +1,6 @@
 ---
 title: "Foxconn Technology Group - Yonglin Biotech: Research and Development Center"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/foxconn-project/robot/robohon-papper.png'  width='800' height='600'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/res/foxconn-project/robot/robohon-papper.png'  width='600' height='600'>"
 collection: research
 ---
 

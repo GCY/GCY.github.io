@@ -1,6 +1,6 @@
 ---
 title: "Atomic Force Microscope(AFM) to Biological and Biomedical Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/AFM/prev.png'  width='800' height='600'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/res/AFM/prev.png'  width='600' height='600'>"
 collection: research
 ---
 
