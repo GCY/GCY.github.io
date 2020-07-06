@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <p align="center"><a href="https://youtu.be/j_L1UMcckq4"><img src="/res/NTUMC/DH/demo.gif" width="800" height="600"></a></p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p0.png" width="800" height="600">
+    <img src="/res/NTUMC/DH/p0.png" width="500" height="400">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p2.png" width="500" height="400">
+    <img src="/res/NTUMC/DH/p2.png" width="400" height="500">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p4.png" width="400" height="500">
+    <img src="/res/NTUMC/DH/p4.png" width="800" height="600">
 </p>
 
 <p align="center">
@@ -45,11 +45,11 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p9.png" width="800" height="600">
+    <img src="/res/NTUMC/DH/p9.png" width="300" height="300">
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p10.png" width="300" height="300">
+    <img src="/res/NTUMC/DH/p10.png" width="800" height="600">
 </p>
 
 <p align="center">
