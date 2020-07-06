@@ -13,19 +13,19 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p1.JPG" width="800" height="600">
+    <img src="/res/NTUMC/DH/p1.JPG" width="500" height="400">
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p2.png" width="600" height="800">
+    <img src="/res/NTUMC/DH/p2.png" width="500" height="400">
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p3.JPG" width="600" height="800">
+    <img src="/res/NTUMC/DH/p3.JPG" width="400" height="500">
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p4.png" width="800" height="600">
+    <img src="/res/NTUMC/DH/p4.png" width="400" height="500">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 <p align="center">
-    <img src="/res/NTUMC/DH/p10.png" width="800" height="600">
+    <img src="/res/NTUMC/DH/p10.png" width="300" height="300">
 </p>
 
 <p align="center">

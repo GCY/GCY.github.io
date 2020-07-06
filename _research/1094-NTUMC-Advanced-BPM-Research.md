@@ -7,10 +7,6 @@ collection: research
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 <p align="center">
-    <img src="/res/NTUMC/BPM/patent.png" width="600" height="800">
-</p>
-
-<p align="center">
     <img src="/res/NTUMC/BPM/dry-battery-type.png" width="800" height="600">
 </p>
 
