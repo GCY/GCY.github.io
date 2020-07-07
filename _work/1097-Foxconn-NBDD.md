@@ -1,10 +1,13 @@
 ---
 title: "Foxconn Technology Group - Yonglin Biotech: New Business Development Department"
-excerpt: "DISC<br/><img src='/res/foxconn-project/TPR/diagram.png'  width='800' height='600'>"
+excerpt: "Algorithm Consultant, New Business Development Department │ May 2016 – Jan 2017 <br/>Develop algorithms for brand new concept of medical device, provide software and firmware solutions, design whole system architecture, join regulatory affairs certificate in medical devices(ISO-13485), conduct software validation and participate in GMP construction process.<br/><img src='/res/foxconn-project/TPR/diagram.png'  width='800' height='600'>"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ - Develop Physiological Signal sensing algorithm and firmware with Microwave Radar of Doppler, obtain TW and CN patents and participate in EVT/PVT/DVT. Used algorithms and techniques include measure Breath, Heart Rate, Carotid pulse, Radial Artery pulse, Gesture detect, motion Deblur, FFT, Kalman filter, FIR and IIR.
+ - Studying core body temperature and temperature correction with a Blackbody Furnace; for instance ear, armpit, and forehead temperature for Regression Analysis.
+ - Develop algorithm of the BLE indoor positioning systems and environment simulation software(MATLAB) and apply these to National Taiwan University Cancer Hospital.
+
 
 <p align="center">
     <img src="/res/foxconn-project/TPR/diagram.png" width="800" height="700">
