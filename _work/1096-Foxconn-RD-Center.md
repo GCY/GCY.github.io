@@ -17,8 +17,9 @@ collection: research
 
 [![](http://img.youtube.com/vi/Gp3Wjc-o23g/0.jpg)](https://youtu.be/Gp3Wjc-o23g "demo")
 
-<iframe width="420" height="315" src='https://youtu.be/Fi3o05xr-bU">
-</iframe>
+<div align="center">
+<a href="https://youtu.be/Fi3o05xr-bU"><img src="https://img.youtube.com/vi/Fi3o05xr-bU/0.jpg" alt="demo"></a>
+</div>
 
 <p align="center">
     <img src="/res/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="600" height="800">
