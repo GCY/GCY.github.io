@@ -27,10 +27,13 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </p>
 
 
-[![](http://img.youtube.com/vi/Lj32AcVmlMo/0.jpg)](https://www.youtube.com/Lj32AcVmlMo "demo")
+<div align="center">
+    <a href="https://youtu.be/Lj32AcVmlMo"><img src="https://img.youtube.com/vi/Lj32AcVmlMo/0.jpg" alt="demo"></a>
+</div>
 
-[![](http://img.youtube.com/vi/4YLERHLjYTU/0.jpg)](https://www.youtube.com/4YLERHLjYTU "demo")
-
+<div align="center">
+    <a href="https://youtu.be/4YLERHLjYTU"><img src="https://img.youtube.com/vi/4YLERHLjYTU/0.jpg" alt="demo"></a>
+</div>
 
 <p align="center">
     <img src="/res/NTUMC/BPM/patent.png" width="600" height="800">
