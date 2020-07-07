@@ -1,15 +1,17 @@
 ---
 title: "MEMObook Inc."
 excerpt: "Algorithm RD, Memobook│ Oct 2014 – Jun 2015
-<br/><img src='/res/MEMObook%20Inc/demo.gif'  width='200' height='300'>"
+<br/>Design the architecture of MemoGift App(Android) and develop it for The Cultural and Creative Industries(500+ designers). The main functions contain Image Processing and Image Projection on a 3D object surface(e.g. Mug, Frameless Painting, Coaster). User will receive the custom product after confirming the order and making a payment through the third party payment.<br/><img src='/res/MEMObook%20Inc/demo.gif'  width='200' height='300'>"
 collection: research
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 <p align="center">
     <img src="/res/MEMObook%20Inc/memogift%20app%20store.png" width="500" height="300">
 </p>
+
+ - Image Processing, including zoom, crop, flip, style filter, contrast and brightness.
+ - 2D image to 3D surface algorithm.
+ - Collaborate with backend, including RESTFul API, AES, order statistics, third party payment, Micropayment.
 
 <p align="center"><a href="https://youtu.be/-UN4db7pVAY"><img src="/res/MEMObook%20Inc/demo.gif" width="200" height="300"></a></p>
 
