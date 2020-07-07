@@ -13,11 +13,12 @@ collection: research
  - Import standard development process, including demand analysis, rational unified process, test items, test flow, deploy, Gitlab, Docker and standards for collaborating with third parties.
  - Technical training for RD team, including software engineering, software testing, IEC-62304, Image Processing and pair programming.
 
-<p align="center">
 [![](http://img.youtube.com/vi/Fi3o05xr-bU/0.jpg)](https://youtu.be/Fi3o05xr-bU "demo")
 
 [![](http://img.youtube.com/vi/Gp3Wjc-o23g/0.jpg)](https://youtu.be/Gp3Wjc-o23g "demo")
-</p>
+
+<iframe width="420" height="315" src='https://youtu.be/Fi3o05xr-bU">
+</iframe>
 
 <p align="center">
     <img src="/res/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="600" height="800">
