@@ -16,15 +16,22 @@ collection: research
     <img src="/res/AccurateMediTech/medica2019.jpg" width="600" height="800">
 </p>
 
-[![](http://img.youtube.com/vi/h7UnM_yJu0M/0.jpg)](https://www.youtube.com/h7UnM_yJu0M "demo")
 
-[![](http://img.youtube.com/vi/y9U-ZYNogH8/0.jpg)](https://youtu.be/y9U-ZYNogH8 "demo")
+<div align="center">
+    <a href="https://youtu.be/h7UnM_yJu0M"><img src="https://img.youtube.com/vi/h7UnM_yJu0M/0.jpg" alt="demo"></a>
+</div>
+
+<div align="center">
+    <a href="https://youtu.be/y9U-ZYNogH8"><img src="https://img.youtube.com/vi/y9U-ZYNogH8/0.jpg" alt="demo"></a>
+</div>
 
 <p align="center">
     <img src="/images/Met%20President%20Tsai%20Ing-wen.jpg" width="800" height="600">
 </p>
 
-[![](http://img.youtube.com/vi/T3dedVjWyUg/0.jpg)](https://youtu.be/T3dedVjWyUg "demo")
+<div align="center">
+    <a href="https://youtu.be/T3dedVjWyUg"><img src="https://img.youtube.com/vi/T3dedVjWyUg/0.jpg" alt="demo"></a>
+</div>
 
 <p align="center">
     <img src="/res/AccurateMediTech/AC1.jpg" width="600" height="800">
@@ -34,10 +41,14 @@ collection: research
     <img src="/res/AccurateMediTech/medica2018.jpg" width="600" height="800">
 </p>
 
-[![](http://img.youtube.com/vi/EdY6A1-WTP8/0.jpg)](https://youtu.be/EdY6A1-WTP8 "demo")
+<div align="center">
+    <a href="https://youtu.be/EdY6A1-WTP8"><img src="https://img.youtube.com/vi/EdY6A1-WTP8/0.jpg" alt="demo"></a>
+</div>
 
 <p align="center">
     <img src="/res/AccurateMediTech/TY-PZT.jpg" width="800" height="600">
 </p>
 
-[![](http://img.youtube.com/vi/hbYp6SEtY_g/0.jpg)](https://youtu.be/hbYp6SEtY_g "demo")
+<div align="center">
+    <a href="https://youtu.be/hbYp6SEtY_g"><img src="https://img.youtube.com/vi/hbYp6SEtY_g/0.jpg" alt="demo"></a>
+</div>
