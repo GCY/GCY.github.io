@@ -1,7 +1,6 @@
 ---
 title: "Foxconn Health Technology Business Group - Yonglin Biotech: Health Promotion and Charity Events"
-excerpt: "<B>Consultant, R&D Center Robotics Subsidiary │ Jan 2017 – Feb 2018</B><br/><B>Algorithm Consultant, New Business Development Department │ May 2016 - Jan 2017</B><br/> Health Technology Business Group of Foxconn Technology Group  adheres to the mission of "Enhance Health, Eradicate Ailment, Improve Longevity"​. For healthcare robot team, our mission is improved healthcare field, hospital, nursing home, even health education of public health, so we join much of health promotion and charity events.
-<br/><img src='/res/foxconn-robots-event/ntuch-show/p1.jpg'  width='800' height='600'>"
+excerpt: "<B>Consultant, R&D Center Robotics Subsidiary │ Jan 2017 – Feb 2018</B><br/><B>Algorithm Consultant, New Business Development Department │ May 2016 - Jan 2017</B><br/>Health Technology Business Group of Foxconn Technology Group  adheres to the mission of Enhance Health, Eradicate Ailment, Improve Longevity. For healthcare robot team, our mission is improved healthcare field, hospital, nursing home, even health education of public health, so we join much of health promotion and charity events.<br/><img src='/res/foxconn-robots-event/ntuch-show/p1.jpg'  width='800' height='600'>"
 collection: research
 ---
 
