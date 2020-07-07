@@ -63,10 +63,12 @@ Skills
 Awards & Honors
 ======
 * [The president **Tsai Ing-wen** met with national representatives from CES 2019](https://www.taiwannews.com.tw/en/news/3646420), Feb 2019
-* NTCU CSIE departmental graduate project competition, first place, Dec 2013. Taiwan Intelligent Robot Contest, 2nd place, April 2013.
+* NTCU CSIE departmental graduate project competition, first place, Dec 2013.
+* Taiwan Intelligent Robot Contest, 2nd place, April 2013.
 * Taiwan Intelligent Robot Contest, 3nd place, May 2014.
 * Taiwan Student Cluster Competition, 3rd prize, May 2014.
-* 2014 the 4th departmental graduate project competition in midland of Taiwan, 3nd place, May 2014. Taiwan Intelligent Robot Scientific Innovation Competition, 4nd place, Oct 2013.
+* 2014 the 4th departmental graduate project competition in midland of Taiwan, 3nd place, May 2014.
+* Taiwan Intelligent Robot Scientific Innovation Competition, 4nd place, Oct 2013.
 * 2014 Maker Faire Taipei - International Humanoid Robot Maze Game Contest, control best award, May 2014.
 
 Publications
