@@ -2,7 +2,7 @@
 title: "A Nanobiosensing Method Based on Force Measurement of Antibody-Antigen Interaction for Direct Detection of Enterovirus 71 by the Chemically Modified Atomic Force Microscopic Probe"
 collection: publications
 permalink: /publication/2017-10-Microb-Pathog
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'In this work, my work is mainly to be responsible for biological sample preparation, coating anti-EV71 on Atomic Force Microscopy(AFM) tips(bound covalently), AFM probe and scannner calibration, and operate an AFM in liquid are amplitude-modulation and tapping mode, after Image sampling of EV71 acquired by tapping mode. Then, using AFM imaging calculating software, the EV71 particle size.'
 date: 2017-10-01
 venue: 'Microbial Pathogenesis'
 paperurl: 'https://github.com/GCY/GCY.github.io/blob/master/files/10.1016%40j.micpath.2017.08.051.pdf'
