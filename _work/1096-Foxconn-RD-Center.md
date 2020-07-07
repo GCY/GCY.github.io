@@ -1,10 +1,18 @@
 ---
 title: "Foxconn Technology Group - Yonglin Biotech: Research and Development Center"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/foxconn-project/robot/robohon-papper.png'  width='600' height='600'>"
+excerpt: "Consultant, R&D Center │ Jan 2017 – Feb 2018 <br/>I lead robotics subsidiaries (US$ 4 millions) to collaborate with third party(SHARP, SoftBank) to develop robotics services in the medical field and the services is to create advanced robotic services around the world. To achieve the goal, I build core RD team of 5 people, develop software toolchains for service robots(RoBoHoN, Papper) in the Foxconn Group. In the meantime, We jointly develop medical robots with NTU(Prof. Li-Chen Fu), collaborate with patent team (ScienBizip) to synchronize patent portfolio with our development. Furthermore, I provide executives business strategy for robotic medical services and sign a Memorandum of Understanding(MOU) with Taiwan medical center.<br/><img src='/res/foxconn-project/robot/robohon-papper.png'  width='600' height='600'>"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ - Lead core RD team to develop the toolchain(a series of software) for service robots in Foxconn Group. The toolchain includes robot motion editor, communication protocol between robots, robot interactive Health Education software, multiple robots synchronization method, communication between robots and Physiological Signal device(Muse, TPR), communication between robot and server and master-slave one-to-many robot wireless control method.
+
+ - Provide executives with business strategy for the next three years in Greater China and finally obtain a US$4 million budget to establish a robot subsidiary. The business strategy contains Business Model(BM), Business Model Canvas(BMC), Annual Operation Planning(AOP), Goal and Objective(G&O), human resources planning, repair SOP and after-sales service.
+ - Collaborate with Foxconn Group patent team to build the patent portfolio of robotic key technologies in the medical field and, at present, our team has obtained patents for robot communications from the United States, China and Taiwan.
+ - Support executives to conduct business negotiations with third parties(SHARP, SoftBank). My support includes software technology, NCC certification, maintenance charges, spec of next generation product and reduce the 60% cost of software development NRE.
+ - Collaborate with doctors to apply for Institutional Review Board(IRB) before importing robot service into hospital. In earlier stage, we signed a Memorandum of Understanding(MOU) with 5 medical centers in Taiwan.
+ - Import standard development process, including demand analysis, rational unified process, test items, test flow, deploy, Gitlab, Docker and standards for collaborating with third parties.
+ - Technical training for RD team, including software engineering, software testing, IEC-62304, Image Processing and pair programming.
+
 
 [![](http://img.youtube.com/vi/Fi3o05xr-bU/0.jpg)](https://youtu.be/Fi3o05xr-bU "demo")
 
