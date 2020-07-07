@@ -37,4 +37,6 @@ collection: research
     <img src="/res/foxconn-project/TPR/patent.png" width="800" height="600">
 </p>
 
-[![](http://img.youtube.com/vi/_HruQeEKXKU/0.jpg)](https://youtu.be/_HruQeEKXKU "demo")
+<div align="center">
+    <a href="https://youtu.be/_HruQeEKXKU"><img src="https://img.youtube.com/vi/_HruQeEKXKU/0.jpg" alt="demo"></a>
+</div>

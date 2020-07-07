@@ -23,4 +23,6 @@ collection: research
     <img src="/res/MEMObook%20Inc/booth.JPG" width="800" height="600">
 </p>
 
-[![](http://img.youtube.com/vi/wjRoydgbO4U/0.jpg)](https://youtu.be/wjRoydgbO4U "demo")
+<div align="center">
+    <a href="https://youtu.be/wjRoydgbO4U"><img src="https://img.youtube.com/vi/wjRoydgbO4U/0.jpg" alt="demo"></a>
+</div>
