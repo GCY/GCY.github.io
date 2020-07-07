@@ -1,10 +1,10 @@
 ---
 title: "Digital Holographic & Structured Light - Endoscopy Surface Profile Measurement with Diffractive Optical Element (DOE) "
-excerpt: "Research Assistant, Institute of Medical Device and Imaging│ Jul 2015 - Jul 2017 <br/><img src='/res/NTUMC/DH/gui.png'  width='800' height='600'>"
+excerpt: "Researched and developed algorithm on 3D diffraction optics Endoscopy for measurement of tumor size. <br/><img src='/res/NTUMC/DH/gui.png'  width='800' height='600'>"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ - Research and develop algorithm on 3D diffraction optics endoscopy, use Hologram, grating, Diffraction Optics Element(DOE) to generate Structured Light image for measure surface depth and finally integrate algorithm and GUI into ARM Cortext-A7. Relevant techniques include Fraunhofer Diffraction, Fresnel Diffraction, Image Filter, Image Segmentation, Object Detection, Camera Calibration, Geometry Mesh and Embedded Linux.
 
 <p align="center"><a href="https://youtu.be/j_L1UMcckq4"><img src="/res/NTUMC/DH/demo.gif" width="800" height="600"></a></p>
 

@@ -1,10 +1,8 @@
 ---
 title: "Human Posture Recognition Based on Neural Network in Robot Controlling"
-excerpt: "NTCU 2012-2013 Undergraduate-Research<br/>Cheng-Yan Guo, Liang Hung.<br/> Advisor: Chorng-Shiuh Koong, Ph.D.<br/><img src='/res/undergraduate-research/GUI-Demo.gif'  width='800' height='600'>"
+excerpt: "NTCU Software Engineering Laboratory<br/><B>Cheng-Yan Guo</B>, Liang Hung. <br/> Advisor: Chorng-Shiuh Koong, Ph.D.<br/>We study possibility to control the robot using a natural user interface(NUI) and human posture recognition based on neural network. Our humanoid robot platform is BeRobot, BeRobot is 16 degree of freedom(DOF) humanoid robot, we using the Microsoft Kinect recived skeleton, then calculate vector dot product of keypoint, input vector dot product to our posture recognition neural network(Fully Connected), output pre-define human posture, finally, transmit the posture to the robot through Bluetooth to control.<br/><img src='/res/undergraduate-research/GUI-Demo.gif'  width='800' height='600'>"
 collection: research
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 <p align="center"><a href="https://youtu.be/mwJW_ZBdZ-g"><img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600"></a></p>
 

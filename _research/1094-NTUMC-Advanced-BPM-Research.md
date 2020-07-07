@@ -1,10 +1,10 @@
 ---
 title: "Advanced Blood Pressure Monitor Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/NTUMC/BPM/patent.png'  width='600' height='800'>"
+excerpt: "I research the Atrial Fibrillation of the Cardiac according to the signal of human pulse, and then analyze and design the algorithm to integrate to wrist type Blood Pressure Monitor(BPM). Participated in verification of medical device regulations (IEC-62304, software validation).<br/><img src='/res/NTUMC/BPM/patent.png'  width='600' height='800'>"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ - Develop software and firmware(MSP430, STM32F4) to implement the algorithm which I designed to enable wrist type blood pressure to detect Atrial Fibrillation(AF). Moreover, I join technology transfer to global companies. Implemented techniques include Systolic, Diastolic, Irregular Pulse Peak(IPP), Irregular Heart Beat(IHB), Atrial Fibrillation(AF), abnormal waveform detection, watch mode, history data, BLE4.0 communication and engineering mode.
 
 <p align="center">
     <img src="/res/NTUMC/BPM/dry-battery-type.png" width="800" height="600">

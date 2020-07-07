@@ -1,10 +1,8 @@
 ---
 title: "Atomic Force Microscope(AFM) to Biological and Biomedical Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/AFM/prev.png'  width='600' height='600'>"
+excerpt: "My work is mainly to be responsible for biological sample preparation, coating antibodies on Atomic Force Microscopy(AFM) tips(bound covalently), AFM probe and scannner calibration, and operate an AFM in liquid are amplitude-modulation and tapping mode, after image sampling of biological sample acquired by tapping mode.<br/><img src='/res/AFM/prev.png'  width='600' height='600'>"
 collection: research
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 <p align="center">
     <img src="/res/AFM/MoS2-AFM.jpg" width="800" height="600">
