@@ -1,6 +1,6 @@
 ---
 title: "Foxconn Technology Group - Yonglin Biotech: New Business Development Department"
-excerpt: "Algorithm Consultant, New Business Development Department │ May 2016 – Jan 2017 <br/>Develop algorithms for brand new concept of medical device, provide software and firmware solutions, design whole system architecture, join regulatory affairs certificate in medical devices(ISO-13485), conduct software validation and participate in GMP construction process.<br/><img src='/res/foxconn-project/TPR/diagram.png'  width='800' height='600'>"
+excerpt: "<B>Algorithm Consultant, New Business Development Department │ May 2016 – Jan 2017</B> <br/>Develop algorithms for brand new concept of medical device, provide software and firmware solutions, design whole system architecture, join regulatory affairs certificate in medical devices(ISO-13485), conduct software validation and participate in GMP construction process.<br/><img src='/res/foxconn-project/TPR/diagram.png'  width='800' height='600'>"
 collection: research
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "MEMObook Inc."
-excerpt: "<B>Algorithm RD, Memobook│ Oct 2014 – Jun 2015<B/>
+excerpt: "<B>Algorithm RD, Memobook│ Oct 2014 – Jun 2015</B>
 <br/> Design the architecture of MemoGift App(Android) and develop it for The Cultural and Creative Industries(500+ designers). The main functions contain Image Processing and Image Projection on a 3D object surface(e.g. Mug, Frameless Painting, Coaster). User will receive the custom product after confirming the order and making a payment through the third party payment. <br/><img src='/res/MEMObook%20Inc/demo.gif'  width='200' height='300'>"
 collection: research
 ---
