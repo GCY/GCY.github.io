@@ -4,6 +4,8 @@ excerpt: "Undergraduate Thesis Awards, 1st place, April 2013.<BR/>NTCU Software 
 collection: research
 ---
 
+We study possibility to control the robot using a natural user interface(NUI) and human posture recognition based on neural network. Our humanoid robot platform is BeRobot, BeRobot is 16 degree of freedom(DOF) humanoid robot, we using the Microsoft Kinect recived skeleton, then calculate vector dot product of keypoint, input vector dot product to our posture recognition neural network(Fully Connected), output pre-define human posture, finally, transmit the posture to the robot through Bluetooth to control.
+
 <p align="center"><a href="https://youtu.be/mwJW_ZBdZ-g"><img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600"></a></p>
 
 <p align="center">

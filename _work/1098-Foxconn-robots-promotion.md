@@ -4,6 +4,8 @@ excerpt: "<B>Consultant, R&D Center Robotics Subsidiary │ Jan 2017 – Feb 201
 collection: research
 ---
 
+Health Technology Business Group of Foxconn Technology Group adheres to the mission of Enhance Health, Eradicate Ailment, Improve Longevity. For healthcare robot team, our mission is improved healthcare field, hospital, nursing home, even health education of public health, so we join much of health promotion and charity events.
+
 <div align="center">
     <a href="https://youtu.be/n8c-wDU18Mg"><img src="https://img.youtube.com/vi/n8c-wDU18Mg/0.jpg" alt="demo"></a>
 </div>

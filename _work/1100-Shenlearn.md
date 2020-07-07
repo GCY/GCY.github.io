@@ -5,6 +5,8 @@ excerpt: "<B>Co-Founder CTO, Shenlearn (Doit) │ Jun 2013 - Aug 2015</B>
 collection: research
 ---
 
+I have been an entrepreneur with my classmates during college, our mission is to change traditional flow of education. Use digitization system on cloud server to reduce the burden on educators, focus on information management of class and student and communication between teachers and parents. I am responsible for the direction and planning of software and hardware development, including strategy, Business Model(BM), Pitch to VCs, Fingerprint Identification, RFID reader, Mobile App and collaborate with Backend(AWS).
+
 <p align="center">
     <img src="/res/Shenlearn/system.png" width="800" height="600">
 </p>
