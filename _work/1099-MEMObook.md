@@ -1,7 +1,7 @@
 ---
 title: "MEMObook Inc."
 excerpt: "<B>Algorithm RD, Memobook│ Oct 2014 – Jun 2015</B>
-<br/> Design the architecture of MemoGift App(Android) and develop it for The Cultural and Creative Industries(500+ designers). The main functions contain Image Processing and Image Projection on a 3D object surface(e.g. Mug, Frameless Painting, Coaster). User will receive the custom product after confirming the order and making a payment through the third party payment. <br/><img src='/res/MEMObook%20Inc/demo.gif'  width='200' height='300'>"
+<br/> Design the architecture of MemoGift App(Android) and develop it for The Cultural and Creative Industries(500+ designers). The main functions contain Image Processing and Image Projection on a 3D object surface(e.g. Mug, Frameless Painting, Coaster). User will receive the custom product after confirming the order and making a payment through the third party payment. <br/><img src='/res/MEMObook%20Inc/demo.gif'  width='200' height='300'><img src='/res/MEMObook%20Inc/memobook-demo.gif'  width='200' height='300'>"
 collection: research
 ---
 
@@ -25,6 +25,4 @@ Design the architecture of MemoGift App(Android) and develop it for The Cultural
     <img src="/res/MEMObook%20Inc/booth.JPG" width="800" height="600">
 </p>
 
-<div align="center">
-    <a href="https://youtu.be/wjRoydgbO4U"><img src="https://img.youtube.com/vi/wjRoydgbO4U/0.jpg" alt="demo"></a>
-</div>
+<p align="center"><a href="https://youtu.be/-wjRoydgbO4U"><img src="/res/MEMObook%20Inc/memobook-demo.gif" width="200" height="300"></a></p>
