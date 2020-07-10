@@ -24,10 +24,14 @@ collection: research
     <img src="/res/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="600" height="800">
 </p>
 
+
+Use of Electroencephalography (EEG) for the analysis of emotional perception and fear to dental check up, then feedback to RoBoHoN for comfort child.
 <p align="center">
     <img src="/res/foxconn-project/robot/EEG-diagram.png" width="800" height="600">
 </p>
 
+
+Action editor and synchronize GUI tool.
 <p align="center">
     <img src="/res/foxconn-project/robot/robohon-control-tools.png" width="800" height="600">
 </p>
