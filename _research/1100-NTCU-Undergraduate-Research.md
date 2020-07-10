@@ -6,7 +6,7 @@ collection: research
 
 We study possibility to control the robot using a natural user interface(NUI) and human posture recognition based on neural network. Our humanoid robot platform is BeRobot, BeRobot is 16 degree of freedom(DOF) humanoid robot, we using the Microsoft Kinect recived skeleton, then calculate vector dot product of keypoint, input vector dot product to our posture recognition neural network(Fully Connected), output pre-define human posture, finally, transmit the posture to the robot through Bluetooth to control.
 
-<p align="center"><a href="https://youtu.be/mwJW_ZBdZ-g">System Demo.<br/><img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600"></a></p>
+<p align="center"><a href="https://youtu.be/mwJW_ZBdZ-g">System Demo<br/><img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600"></a></p>
 
 <p align="center">
     <img src="/res/undergraduate-research/system.png" width="800" height="600">
@@ -45,7 +45,7 @@ We study possibility to control the robot using a natural user interface(NUI) an
 </p>
 
 
-<p align="center"><a href="https://youtu.be/6yLbgtvzfQ4">Face identify.<br/><img src="/res/undergraduate-research/FaceIdentify%20Demo.gif" width="800" height="600"></a></p>
+<p align="center"><a href="https://youtu.be/6yLbgtvzfQ4">Face identify<br/><img src="/res/undergraduate-research/FaceIdentify%20Demo.gif" width="800" height="600"></a></p>
 
 <p align="center">
     <img src="/res/undergraduate-research/hand-open.png" width="600" height="800">
@@ -55,7 +55,7 @@ We study possibility to control the robot using a natural user interface(NUI) an
     <img src="/res/undergraduate-research/hand-close.png" width="600" height="800">
 </p>
 
-<p align="center"><a href="https://youtu.be/3z2oSk4kzhQ">Added x-asix, use custom Arduino servo motor controller.<br/><img src="/res/undergraduate-research/kinect-track.gif" width="800" height="600"></a></p>
+<p align="center"><a href="https://youtu.be/3z2oSk4kzhQ">Added x-asix, use custom Arduino servo motor controller<br/><img src="/res/undergraduate-research/kinect-track.gif" width="800" height="600"></a></p>
 <p align="center">
     <img src="/res/undergraduate-research/kinect-add-x-axis.png" width="800" height="600">
 </p>
