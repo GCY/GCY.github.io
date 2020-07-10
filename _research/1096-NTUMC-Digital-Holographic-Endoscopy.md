@@ -6,7 +6,7 @@ collection: research
 
  - Research and develop algorithm on 3D diffraction optics endoscopy, use Hologram, grating, Diffraction Optics Element(DOE) to generate Structured Light image for measure surface depth and finally integrate algorithm and GUI into ARM Cortext-A7. Relevant techniques include Fraunhofer Diffraction, Fresnel Diffraction, Image Filter, Image Segmentation, Object Detection, Camera Calibration, Geometry Mesh and Embedded Linux.
 
-<p align="center"><a href="https://youtu.be/j_L1UMcckq4"><img src="/res/NTUMC/DH/demo.gif" width="800" height="600"></a></p>
+<p align="center"><a href="https://youtu.be/j_L1UMcckq4">NTU 2015.09~2016.01 - Digital Holography - Surface Profile Measurement<br/><img src="/res/NTUMC/DH/demo.gif" width="800" height="600"></a></p>
 
 <p align="center">
     <img src="/res/NTUMC/DH/p0.png" width="500" height="400">
