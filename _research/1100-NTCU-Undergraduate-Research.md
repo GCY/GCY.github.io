@@ -8,6 +8,8 @@ We study possibility to control the robot using a natural user interface(NUI) an
 
 <p align="center"><a href="https://youtu.be/mwJW_ZBdZ-g">System Demo<br/><img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600"></a></p>
 
+
+System architecture and posture recognition flow with neural network.
 <p align="center">
     <img src="/res/undergraduate-research/system.png" width="800" height="600">
 </p>
@@ -20,6 +22,8 @@ We study possibility to control the robot using a natural user interface(NUI) an
     <img src="/res/undergraduate-research/BT-control-Berobot.jpg" width="800" height="600">
 </p>
 
+
+Keypoint K1 to K4, for calculate vector dot product.
 <p align="center">
     <img src="/res/undergraduate-research/skeleton.png" width="300" height="300">
 </p>
@@ -28,25 +32,34 @@ We study possibility to control the robot using a natural user interface(NUI) an
     <img src="/res/undergraduate-research/pose-calc.png" width="600" height="800">
 </p>
 
+Dataset for Back-Propagation, format Keypoint1-4 and posture 1-9.
 <p align="center">
     <img src="/res/undergraduate-research/dataset-example.png" width="800" height="600">
 </p>
 
+
+Training program.
 <p align="center">
     <img src="/res/undergraduate-research/training-program.png" width="800" height="600">
 </p>
 
+
+Data classification.
 <p align="center">
     <img src="/res/undergraduate-research/Postures-classification.png" width="800" height="600">
 </p>
 
+
+Training dataset, validation dataset and test dataset result.
 <p align="center">
     <img src="/res/undergraduate-research/result.png" width="800" height="600">
 </p>
 
 
-<p align="center"><a href="https://youtu.be/6yLbgtvzfQ4">Face identify<br/><img src="/res/undergraduate-research/FaceIdentify%20Demo.gif" width="800" height="600"></a></p>
+<p align="center"><a href="https://youtu.be/6yLbgtvzfQ4">Face identify, this is for Microsft Kinect 2Player to 6Player robot control<br/><img src="/res/undergraduate-research/FaceIdentify%20Demo.gif" width="800" height="600"></a></p>
 
+
+Gesture recognition for menu selection and mouse control. <a href="https://www.youtube.com/watch?v=csUB1P2ji3c"> another example </a>
 <p align="center">
     <img src="/res/undergraduate-research/hand-open.png" width="600" height="800">
 </p>
