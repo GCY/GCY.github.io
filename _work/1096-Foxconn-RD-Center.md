@@ -13,11 +13,11 @@ collection: research
 
 
 <div align="center">
-    <a href="https://youtu.be/Fi3o05xr-bU">Robot (RoBoHoN) in Health Care Education Interactive Games: Dental check up.</br><img src="https://img.youtube.com/vi/Fi3o05xr-bU/0.jpg" alt="demo"></a>
+    <a href="https://youtu.be/Fi3o05xr-bU">Robot (RoBoHoN) in Health Care Education Interactive Games: Dental check up.<br/> <img src="https://img.youtube.com/vi/Fi3o05xr-bU/0.jpg" alt="demo"></a>
 </div>
 
 <div align="center">
-    <a href="https://youtu.be/Gp3Wjc-o23g"><img src="https://img.youtube.com/vi/Gp3Wjc-o23g/0.jpg" alt="demo"></a>
+    <a href="https://youtu.be/Gp3Wjc-o23g">Robot (RoBoHoN) in Health Care Education Interactive Games: Treatment of tooth decay in child.<br/> <img src="https://img.youtube.com/vi/Gp3Wjc-o23g/0.jpg" alt="demo"></a>
 </div>
 
 <p align="center">
