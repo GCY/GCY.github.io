@@ -17,7 +17,7 @@ MoS2 molybdenum disulfide sample.
 </p>
 
 
-AFM operation.
+The AFM operation.
 <p align="center">
     <img src="/res/AFM/operation-AFM.JPG" width="600" height="800">
 </p>
@@ -29,7 +29,7 @@ Process biological sample in fume hood.
 </p>
 
 
-Setup probe.
+Setup the probe.
 <p align="center">
     <img src="/res/AFM/probe.JPG" width="600" height="800">
 </p>
