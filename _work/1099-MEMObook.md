@@ -22,7 +22,7 @@ Design the architecture of MemoGift App(Android) and develop it for The Cultural
     <img src="/res/MEMObook%20Inc/memogift%20app%20demo.png" width="800" height="600">
 </p>
 
-『Memobook』is a online personalized photo albums,  it is also photo editing tools, and looking at other people's shared albums. 
+『Memobook』app is a online personalized photo albums,  it is also photo editing tools, and looking at other people's shared albums. 
 
 <p align="center"><a href="https://youtu.be/-wjRoydgbO4U"><img src="/res/MEMObook%20Inc/memobook-demo.gif" width="200" height="300"></a></p>
 
