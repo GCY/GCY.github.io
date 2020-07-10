@@ -10,11 +10,10 @@ collection: research
  - Collaborate with Foxconn Group patent team to build the patent portfolio of robotic key technologies in the medical field and, at present, our team has obtained patents for robot communications from the United States, China and Taiwan.
  - Support executives to conduct business negotiations with third parties(SHARP, SoftBank). My support includes software technology, NCC certification, maintenance charges, spec of next generation product and reduce the 60% cost of software development NRE.
  - Collaborate with doctors to apply for Institutional Review Board(IRB) before importing robot service into hospital. In earlier stage, we signed a Memorandum of Understanding(MOU) with 5 medical centers in Taiwan.
- - Import standard development process, including demand analysis, rational unified process, test items, test flow, deploy, Gitlab, Docker and standards for collaborating with third parties.
- - Technical training for RD team, including software engineering, software testing, IEC-62304, Image Processing and pair programming.
+
 
 <div align="center">
-    <a href="https://youtu.be/Fi3o05xr-bU"><img src="https://img.youtube.com/vi/Fi3o05xr-bU/0.jpg" alt="demo"></a>
+    <a href="https://youtu.be/Fi3o05xr-bU">Robot (RoBoHoN) in Health Care Education Interactive Games: Dental check up.</br><img src="https://img.youtube.com/vi/Fi3o05xr-bU/0.jpg" alt="demo"></a>
 </div>
 
 <div align="center">
