@@ -4,6 +4,8 @@ excerpt: "My work is mainly to be responsible for biological sample preparation,
 collection: research
 ---
 
+My work is mainly to be responsible for biological sample preparation, coating antibodies on Atomic Force Microscopy(AFM) tips(bound covalently), AFM probe and scannner calibration, and operate an AFM in liquid are amplitude-modulation and tapping mode, after image sampling of biological sample acquired by tapping mode.
+
 <p align="center">
     <img src="/res/AFM/MoS2-AFM.jpg" width="800" height="600">
 </p>
