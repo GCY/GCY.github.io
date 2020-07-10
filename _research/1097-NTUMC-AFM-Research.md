@@ -10,22 +10,31 @@ My work is mainly to be responsible for biological sample preparation, coating a
     <img src="/res/AFM/MoS2-AFM.jpg" width="800" height="600">
 </p>
 
+
+MoS2 molybdenum disulfide sample.
 <p align="center">
     <img src="/res/AFM/MoS2-molybdenum-disulfide.jpg" width="600" height="800">
 </p>
 
+
+AFM operation.
 <p align="center">
     <img src="/res/AFM/operation-AFM.JPG" width="600" height="800">
 </p>
 
+
+Process biological sample in fume hood.
 <p align="center">
     <img src="/res/AFM/biological%20specimen-Fume-hood.JPG" width="600" height="800">
 </p>
 
+
+Setup probe.
 <p align="center">
     <img src="/res/AFM/probe.JPG" width="600" height="800">
 </p>
 
+<a href="https://gcy.github.io/publication/2017-10-Microb-Pathog">Publication: A Nanobiosensing Method Based on Force Measurement of Antibody-Antigen Interaction for Direct Detection of Enterovirus 71 by the Chemically Modified Atomic Force Microscopic Probe</a>
 <p align="center">
     <img src="/res/AFM/j1.png" width="600" height="800">
 </p>
@@ -46,6 +55,7 @@ My work is mainly to be responsible for biological sample preparation, coating a
     <img src="/res/AFM/j5.png" width="600" height="800">
 </p>
 
+<a href="https://gcy.github.io/publication/2016-07-BBR">Publication: Dynamic Response of HPV16/anti-HPV16 Pairs With Unbinding Events Studied by Atomic Force Microscopy</a>
 <p align="center">
     <img src="/res/AFM/j6.png" width="800" height="600">
 </p>
