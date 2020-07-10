@@ -11,6 +11,7 @@ Design the architecture of MemoGift App(Android) and develop it for The Cultural
     <img src="/res/MEMObook%20Inc/memogift%20app%20store.png" width="500" height="300">
 </p>
 
+
 『Memo Gifs』app is a online create customized gifts shop, it is also photo editing tools to crop, or get creative with effects and borders.
  - Image Processing, including zoom, crop, flip, style filter, contrast and brightness.
  - 2D image to 3D surface algorithm.
@@ -22,8 +23,8 @@ Design the architecture of MemoGift App(Android) and develop it for The Cultural
     <img src="/res/MEMObook%20Inc/memogift%20app%20demo.png" width="800" height="600">
 </p>
 
-『Memobook』app is a online personalized photo albums,  it is also photo editing tools, and looking at other people's shared albums. 
 
+『Memobook』app is a online personalized photo albums,  it is also photo editing tools, and looking at other people's shared albums. 
 <p align="center"><a href="https://youtu.be/-wjRoydgbO4U"><img src="/res/MEMObook%20Inc/memobook-demo.gif" width="200" height="300"></a></p>
 
 <p align="center">
