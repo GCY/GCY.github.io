@@ -25,7 +25,7 @@ collection: research
 </p>
 
 
-Use of Electroencephalography (EEG) for the analysis of emotional perception and fear to dental check up, then feedback to RoBoHoN for comfort child.
+Use of Electroencephalography (EEG) for the analysis of emotional perception and fear to dental check up, then feedback to RoBoHoN for comforting children.
 <p align="center">
     <img src="/res/foxconn-project/robot/EEG-diagram.png" width="800" height="600">
 </p>
