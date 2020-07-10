@@ -17,10 +17,14 @@ collection: research
     <img src="/res/foxconn-project/TPR/prototype.png" width="800" height="600">
 </p>
 
+
+Doppler signal GUI tool.
 <p align="center">
     <img src="/res/foxconn-project/TPR/signal.png" width="800" height="600">
 </p>
 
+
+Clinical study, breath R square 0.752, heart rate R square 0.914. 24G Doppler signal processing result compare to count the number of his breath cycles and ECG.
 <p align="center">
     <img src="/res/foxconn-project/TPR/clinical.png" width="800" height="600">
 </p>
@@ -33,11 +37,14 @@ collection: research
     <img src="/res/foxconn-project/TPR/10ghz-chamber.jpg" width="800" height="600">
 </p>
 
+
 <a href="https://gcy.github.io/patents/US20180360329A1">USPTO Patent: Physiological signal sensor</a>
 <p align="center">
     <img src="/res/foxconn-project/TPR/patent.png" width="800" height="600">
 </p>
 
+
+Video demo:
 <div align="center">
     <a href="https://youtu.be/_HruQeEKXKU"><img src="https://img.youtube.com/vi/_HruQeEKXKU/0.jpg" alt="demo"></a>
 </div>
