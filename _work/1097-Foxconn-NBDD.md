@@ -33,6 +33,7 @@ collection: research
     <img src="/res/foxconn-project/TPR/10ghz-chamber.jpg" width="800" height="600">
 </p>
 
+<a href="https://gcy.github.io/patents/US20180360329A1">USPTO Patent: Physiological signal sensor</a>
 <p align="center">
     <img src="/res/foxconn-project/TPR/patent.png" width="800" height="600">
 </p>
