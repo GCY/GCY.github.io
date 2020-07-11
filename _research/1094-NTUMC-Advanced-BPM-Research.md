@@ -49,7 +49,7 @@ Oscillometric method of measuring blood pressure, AC and DC signal.
 </div>
 
 
-<a href="/files/US20200060562A1.pdf">Method and Device for Detecting Heart Rhythm Irregularities</a>
+<a href="https://github.com/GCY/GCY.github.io/blob/master/files/US20200060562A1.pdf">Method and Device for Detecting Heart Rhythm Irregularities</a>
 <p align="center">
     <img src="/res/NTUMC/BPM/patent.png" width="600" height="800">
 </p>
