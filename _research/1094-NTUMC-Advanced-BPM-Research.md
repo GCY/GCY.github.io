@@ -1,6 +1,6 @@
 ---
 title: "Advanced Blood Pressure Monitor Research"
-excerpt: "I research the Atrial Fibrillation of the Cardiac according to the signal of human pulse, and then analyze and design the algorithm to integrate to wrist type Blood Pressure Monitor(BPM). Participated in verification of medical device regulations (IEC-62304, software validation).<br/><img src='/res/NTUMC/BPM/patent.png'  width='600' height='800'>"
+excerpt: "I research the Atrial Fibrillation of the Cardiac according to the signal of human pulse and then analyze and design the algorithm to integrate to wrist type Blood Pressure Monitor(BPM). Participated in verification of medical device regulations (IEC-62304, software validation).<br/><img src='/res/NTUMC/BPM/patent.png'  width='600' height='800'>"
 collection: research
 ---
 
