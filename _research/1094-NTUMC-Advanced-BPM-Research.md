@@ -48,6 +48,8 @@ Oscillometric method of measuring blood pressure, AC and DC signal.
     <a href="https://youtu.be/4YLERHLjYTU">Blood Pressure Watch: Atrial Fibrillation Detection<br/><img src="https://img.youtube.com/vi/4YLERHLjYTU/0.jpg" alt="demo"></a>
 </div>
 
+
+<a href="/files/US20200060562A1.pdf">Method and Device for Detecting Heart Rhythm Irregularities</a>
 <p align="center">
     <img src="/res/NTUMC/BPM/patent.png" width="600" height="800">
 </p>
