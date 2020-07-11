@@ -36,6 +36,10 @@ Mean Arterial Pressure(MAP) correlation coefficient 0.713.
     <img src="/res/NTUMC/ECG/thesis.png" width="800" height="600">
 </p>
 
+
+<a href="https://gcy.github.io/patents/US20190387984A1">USPTO Patent: Electrocardographic monitoring device and blood pressure monitoring system using the same</a><br/>
+<a href="https://gcy.github.io/patents/US20200000349A1">USPTO Patent: Pulse detection module and use-as-you-need blood pressure measurement device comprising the same</a><br/>
+<a href="https://gcy.github.io/patents/US20200000350A1">USPTO Patent: Dynamic measurement device with a blood pressure determination function</a><br/>
 <p align="center">
     <img src="/res/NTUMC/ECG/patent.png" width="600" height="800">
 </p>
