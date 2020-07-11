@@ -6,22 +6,32 @@ collection: research
 
  - Develop software and firmware(MSP430, STM32F4) on wrist type Non-Invasive Continuous Blood Pressure Monitor(NICBP) and then perform experiments to verify it. Implement algorithm for ECG, Heart Sound, Lung Sound, Carotid pulse, TEB, ICG, Doppler Microwave Radar and analog signal of Near-Infrared Spectrometry(NIRS). Finally I build the system based on the Moens-Korteweg equation, including Pulse Wave Velocity(PWV), Pulse Arrival Time(PAT), Pulse Transit Time(PTT), Pre-Ejection Period(PEP), Ellipse to Fit, Linear Relationship solve and calibration.
 
+
+Watch type cuffless blood pressure monitor, combine one lead ECG and pulsemeter.
 <p align="center">
     <img src="/res/NTUMC/ECG/PROTOTYPE.png" width="800" height="600">
 </p>
 
+
+Pulse Arrival Time(PAT) = ΔX = ECG QRS-Complex to arterial pulse wave peak.
 <p align="center">
     <img src="/res/NTUMC/ECG/real-PAT.png" width="800" height="600">
 </p>
 
+
+Reduce Moens–Korteweg equation to regression model.
 <p align="center">
     <img src="/res/NTUMC/ECG/PAT-EQUATION.png" width="800" height="600">
 </p>
 
+
+Mean Arterial Pressure(MAP) correlation coefficient 0.713.
 <p align="center">
     <img src="/res/NTUMC/ECG/map-correction.png" width="800" height="600">
 </p>
 
+
+<a href="https://gcy.github.io/publication/2017-07-Thesis">My Master’s thesis Published in National Taiwan University College of Medicine, 2017: Algorithm of monitoring (detecting) electrocardiographic QRS complex occurring in arrhythmia patient</a>
 <p align="center">
     <img src="/res/NTUMC/ECG/thesis.png" width="800" height="600">
 </p>
