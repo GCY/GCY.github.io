@@ -61,11 +61,7 @@ Training dataset, validation dataset and test dataset result.
 
 Gesture recognition for menu selection and mouse control. <a href="https://www.youtube.com/watch?v=csUB1P2ji3c"> another example </a>
 <p align="center">
-    <img src="/res/undergraduate-research/hand-open.png" width="600" height="800">
-</p>
-
-<p align="center">
-    <img src="/res/undergraduate-research/hand-close.png" width="600" height="800">
+    <img src="/res/undergraduate-research/hand-open-close.png" width="800" height="600">
 </p>
 
 <p align="center"><a href="https://youtu.be/3z2oSk4kzhQ">Added x-asix, use custom Arduino servo motor controller<br/><img src="/res/undergraduate-research/kinect-track.gif" width="800" height="600"></a></p>
