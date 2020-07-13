@@ -21,7 +21,7 @@ Health Technology Business Group of Foxconn Technology Group adheres to the miss
 </p>
 
 <br/>
-Front row, second from the left, CHENH-YAN Guo. The central, Mei-Hwan Wu, the superintendent of NTUCH.
+Front row, second from the left, Cheng-Yan Guo. The central, Mei-Hwan Wu, the superintendent of NTUCH.
 <p align="center">
     <img src="/res/foxconn-robots-event/ntuch-show/p3.jpg" width="800" height="600">
 </p>
