@@ -9,7 +9,7 @@ We study possibility to control the robot using a natural user interface(NUI) an
 <p align="center"><a href="https://youtu.be/mwJW_ZBdZ-g">System Demo<br/><img src="/res/undergraduate-research/GUI-Demo.gif" width="800" height="600"></a></p>
 
 <div align="center">
-<a href="https://www.youtube.com/G9u2u5qUuDQ">Robot control with natural user interface(NUI)<br/><img src="https://img.youtube.com/vi/G9u2u5qUuDQ/0.jpg" alt="demo"></a>
+<a href="https://youtu.be/G9u2u5qUuDQ">Robot control with natural user interface(NUI)<br/><img src="https://img.youtube.com/vi/G9u2u5qUuDQ/0.jpg" alt="demo"></a>
 </div>
 
 System architecture and posture recognition flow with neural network.
