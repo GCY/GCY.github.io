@@ -8,7 +8,7 @@ collection: research
  - Studying core body temperature and temperature correction with a Blackbody Furnace; for instance ear, armpit, and forehead temperature for Regression Analysis.
  - Develop algorithm of the BLE indoor positioning systems and environment simulation software(MATLAB) and apply these to National Taiwan University Cancer Hospital.
 
-
+<br/>
 <p align="center">
     <img src="/res/foxconn-project/TPR/diagram.png" width="800" height="700">
 </p>
@@ -17,13 +17,13 @@ collection: research
     <img src="/res/foxconn-project/TPR/prototype.png" width="800" height="600">
 </p>
 
-
+<br/>
 Doppler signal GUI tool.
 <p align="center">
     <img src="/res/foxconn-project/TPR/signal.png" width="800" height="600">
 </p>
 
-
+<br/>
 Clinical study, breath R square 0.752, heart rate R square 0.914. 24G Doppler signal processing result compare to count the number of his breath cycles and ECG.
 <p align="center">
     <img src="/res/foxconn-project/TPR/clinical.png" width="800" height="600">
@@ -37,13 +37,13 @@ Clinical study, breath R square 0.752, heart rate R square 0.914. 24G Doppler si
     <img src="/res/foxconn-project/TPR/10ghz-chamber.jpg" width="800" height="600">
 </p>
 
-
+<br/>
 <a href="https://gcy.github.io/patents/US20180360329A1">USPTO Patent: Physiological signal sensor</a>
 <p align="center">
     <img src="/res/foxconn-project/TPR/patent.png" width="800" height="600">
 </p>
 
-
+<br/>
 <div align="center">
     <a href="https://youtu.be/_HruQeEKXKU">Robot (RoBoHoN) Connect Doppler Vital-Sign Monitor (TPR) to sense Heart-Rate and Respiration<br/><img src="https://img.youtube.com/vi/_HruQeEKXKU/0.jpg" alt="demo"></a>
 </div>

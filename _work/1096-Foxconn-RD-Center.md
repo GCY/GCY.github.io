@@ -11,11 +11,11 @@ collection: research
  - Support executives to conduct business negotiations with third parties(SHARP, SoftBank). My support includes software technology, NCC certification, maintenance charges, spec of next generation product and reduce the 60% cost of software development NRE.
  - Collaborate with doctors to apply for Institutional Review Board(IRB) before importing robot service into hospital. In earlier stage, we signed a Memorandum of Understanding(MOU) with 5 medical centers in Taiwan.
 
-
+<br/>
 <div align="center">
     <a href="https://youtu.be/Fi3o05xr-bU">Robot (RoBoHoN) in Health Care Education Interactive Games: Dental check up<br/> <img src="https://img.youtube.com/vi/Fi3o05xr-bU/0.jpg" alt="demo"></a>
 </div>
-
+<br/>
 <div align="center">
     <a href="https://youtu.be/Gp3Wjc-o23g">Robot (RoBoHoN) in Health Care Education Interactive Games: Treatment of tooth decay in child<br/> <img src="https://img.youtube.com/vi/Gp3Wjc-o23g/0.jpg" alt="demo"></a>
 </div>
@@ -24,13 +24,13 @@ collection: research
     <img src="/res/foxconn-project/robot/EEG-ROBOT-INTERACT-GAME-DIAGRAM.png" width="600" height="800">
 </p>
 
-
+<br/>
 Use of Electroencephalography (EEG) for the analysis of emotional perception and fear to dental check up, then feedback to RoBoHoN for comforting children.
 <p align="center">
     <img src="/res/foxconn-project/robot/EEG-diagram.png" width="800" height="600">
 </p>
 
-
+<br/>
 Action editor and synchronize GUI tool.
 <p align="center">
     <img src="/res/foxconn-project/robot/robohon-control-tools.png" width="800" height="600">
@@ -40,7 +40,7 @@ Action editor and synchronize GUI tool.
     <img src="/res/foxconn-project/robot/ntuch-map.png" width="800" height="600">
 </p>
 
-
+<br/>
 <a href="https://gcy.github.io/patents/US20190240842A1">USPTO Patent: Robot assisted interaction system and method thereof</a>
 <p align="center">
     <img src="/res/foxconn-project/robot/patent.png" width="800" height="600">
