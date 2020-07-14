@@ -119,8 +119,8 @@ Because the ECG QRS-Complex is not the starting point for blood to actually ente
 
 <br/>
 
- LICENSE
- -------
+## LICENSE
+
  
  MIT License
  
@@ -144,8 +144,7 @@ Because the ECG QRS-Complex is not the starting point for blood to actually ente
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
  
- OSHW Certification
- -------
+ ## OSHW Certification
  
  https://certification.oshwa.org/tw000003.html
  
