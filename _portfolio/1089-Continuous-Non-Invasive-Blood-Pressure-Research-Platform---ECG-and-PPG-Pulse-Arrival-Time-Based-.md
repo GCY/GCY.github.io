@@ -117,3 +117,9 @@ Because the ECG QRS-Complex is not the starting point for blood to actually ente
 - [3] https://www.egr.msu.edu/classes/ece480/capstone/spring13/group03/documents.html
 - [4] Cho, J., & Baek, H. J. (2020). A Comparative Study of Brachial–Ankle Pulse Wave Velocity and Heart–Finger Pulse Wave Velocity in Korean Adults. Sensors, 20(7), 2073.
  
+ OSHW Certification
+ -------
+ 
+ https://certification.oshwa.org/tw000003.html
+ 
+ ![alt text](/res/Continuous-Non-Invasive-Blood-Pressure-Research-Platform---ECG-and-PPG-Pulse-Arrival-Time-Based/OSHW_mark_TW000003.png?raw=true) 
