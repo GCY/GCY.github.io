@@ -111,12 +111,14 @@ Because the ECG QRS-Complex is not the starting point for blood to actually ente
 
 
 
-### Reference :
+## Reference :
 - [1] Continuous Blood Pressure Measurement from Invasive to Unobtrusive: Celebration of 200th Birth Anniversary of Carl Ludwig
 - [2] Cuff-Less and Continuous Blood Pressure Monitoring: A Methodological Review
 - [3] https://www.egr.msu.edu/classes/ece480/capstone/spring13/group03/documents.html
 - [4] Cho, J., & Baek, H. J. (2020). A Comparative Study of Brachial–Ankle Pulse Wave Velocity and Heart–Finger Pulse Wave Velocity in Korean Adults. Sensors, 20(7), 2073.
- 
+
+<br/>
+
  LICENSE
  -------
  
