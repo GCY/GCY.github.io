@@ -1,6 +1,6 @@
 ---
 title: "Accurate Meditech Inc."
-excerpt: "<B>Director, RD Department │ April 2018 – Mar 2020</B> <br/> Find a new way of solving a calibration problems of Cuffless Ambulatory Blood Pressure Monitor(ABPM), implement no calibration needed algorithm, also, I lead RD team of 5 people(e.g ME, EE, SE) to collaborate with OEM Manufacture(e.g. Compal Electronics, Ya Horng Electronic, Delta Electronics) and sensor vendors(e.g. TAIYO YUDEN, Seiko II) to develop ABPM(Accurate24) to provide cuffless solution for our customer(e.g. Beurer GmbH, Choice Electronic Tech).
+excerpt: "<B>Director, RD Department │ April 2018 – Mar 2020</B> <br/> Lead RD team of 5 people(e.g ME, EE, SE)  to develop of solving a calibration problems of Cuffless Ambulatory Blood Pressure Monitor(ABPM), implement no calibration needed algorithm, also, collaborate with OEM Manufacture(e.g. Compal Electronics, Ya Horng Electronic, Delta Electronics) and sensor vendors(e.g. TAIYO YUDEN, Seiko II) to develop ABPM(Accurate24) to provide cuffless solution for our customer(e.g. Beurer GmbH, Choice Electronic Tech), the first year shipments to customer of 10k.
 <br/><img src='/res/AccurateMediTech/medica2019-sample.jpg' width='800' height='600'>"
 collection: research
 ---
