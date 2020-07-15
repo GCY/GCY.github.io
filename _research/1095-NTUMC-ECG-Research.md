@@ -1,6 +1,6 @@
 ---
 title: "Arrhythmia Electrocardiogram(ECG) Signal Process Research"
-excerpt: "When I served as a graduate research assistant of National Taiwan University, I developed algorithms for software and firmware on watch type Non-Invasive Continuous Blood Pressure Monitor(NICBP) with pulsemeter and ECG.<br/><img src='/res/NTUMC/ECG/patent.png'  width='600' height='600'>"
+excerpt: "When I served as a graduate research assistant of National Taiwan University, I developed algorithms for software and firmware on watch type Non-Invasive Continuous Blood Pressure Monitor(NICBP) with pulsimeter and ECG.<br/><img src='/res/NTUMC/ECG/patent.png'  width='600' height='600'>"
 collection: research
 ---
 

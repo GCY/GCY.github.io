@@ -1,6 +1,6 @@
 ---
 title: "Atomic Force Microscope(AFM) to Biological and Biomedical Research"
-excerpt: "My work is mainly to be responsible for biological sample preparation, coating antibodies on Atomic Force Microscopy(AFM) tips(bound covalently), AFM probe and scannner calibration, and operate an AFM in liquid are amplitude-modulation and tapping mode, after image sampling of biological sample acquired by tapping mode.<br/><img src='/res/AFM/prev.png'  width='600' height='600'>"
+excerpt: "My work is mainly to be responsible for biological sample preparation, coating antibodies on Atomic Force Microscopy(AFM) tips(bound covalently), AFM probe and scanner calibration, and operate an AFM in liquid are amplitude-modulation and tapping mode, after image sampling of the biological sample acquired by tapping mode.<br/><img src='/res/AFM/prev.png'  width='600' height='600'>"
 collection: research
 ---
 
