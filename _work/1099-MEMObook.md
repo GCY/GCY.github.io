@@ -5,7 +5,7 @@ excerpt: "<B>Algorithm RD, Memobook│ Oct 2014 – Jun 2015</B>
 collection: research
 ---
 
-Design the architecture of MemoGift App(Android) and develop it for The Cultural and Creative Industries(500+ designers). The main functions contain Image Processing and Image Projection on a 3D object surface(e.g. Mug, Frameless Painting, Coaster). User will receive the custom product after confirming the order and making a payment through the third party payment.
+Design the architecture of MemoGift App(Android) and develop it for The Cultural and Creative Industries(500+ designers). The main functions contain Image Processing and Image Projection on a 3D object surface(e.g. Mug, Frameless Painting, Coaster). Users will receive the custom product after confirming the order and making a payment through the third-party payment.
 <br/>
 <p align="center">
     <img src="/res/MEMObook%20Inc/memogift%20app%20store.png" width="500" height="300">

@@ -4,7 +4,7 @@ excerpt: "<B>Consultant, R&D Center Robotics Subsidiary │ Jan 2017 – Feb 201
 collection: research
 ---
 
-Health Technology Business Group of Foxconn Technology Group adheres to the mission of Enhance Health, Eradicate Ailment, Improve Longevity. For healthcare robot team, our mission is improved healthcare field, hospital, nursing home, even health education of public health, so we join much of health promotion and charity events.
+Health Technology Business Group of Foxconn Technology Group adheres to the mission of Enhance Health, Eradicate Ailment, Improve Longevity. For the healthcare robot team, our mission is to improve the healthcare field, hospital, nursing home, even health education of public health, so we join much of health promotion and charity events.
 <br/>
 
 『Robohon With You』 is X'mas charity event at National Taiwan University Children's Hospital(NTUCH), we design action editor to edit dance moves and synchronization between robots.
