@@ -12,14 +12,10 @@ I have been a consultant to Foxconn Health Technology Business Group and my role
 
 Before that, I have experience in the development, equipment standard, and certification of wearable medical equipment at the National Taiwan University College of Medicine.
 
-I have had an entrepreneurial experience for a few years, my role is to lead the R&D team to develop medical devices and service robots for new business development, and I also received a special event on behalf of a company, the president Tsai Ing-wen met with national representatives from CES 2019 at the Presidential Office.
-
-Finally, my programming experience has been more than 10+ years and focus on Robotics, Computer Vision, Signal Processing, and Embedded Systems.
-
 ![robot and me](/images/robot%20and%20me.jpg "robot and me")
 
-I have had an entrepreneurial experience for a few years, my role is to lead the R&D team to develop medical devices and service robots for new business development , and I also received a special event on behalf of company, [the president **Tsai Ing-wen** met with national representatives from CES 2019 at the Presidential Office](https://www.taiwannews.com.tw/en/news/3646420).
+I have had an entrepreneurial experience for a few years, my role is to lead the R&D team to develop medical devices and service robots for new business development, and I also received a special event on behalf of a company, [the president **Tsai Ing-wen** met with national representatives from CES 2019 at the Presidential Office](https://www.taiwannews.com.tw/en/news/3646420).
 
 ![Met President Tsai Ing-wen](/images/Met%20President%20Tsai%20Ing-wen.jpg "Met President Tsai Ing-wen")
 
-Finally, my programming experience has been more than 10+ years and focus on Robotics, Computer Vision, Signal Processing and Embedded Systems.
+Finally, my programming experience has been more than 10+ years and focus on Robotics, Computer Vision, Signal Processing, and Embedded Systems.
