@@ -11,6 +11,10 @@ collection: research
  - Support executives to conduct business negotiations with third parties(SHARP, SoftBank). My support includes software technology, NCC certification, maintenance charges, spec of next generation product and reduce the 60% cost of software development NRE.
  - Collaborate with doctors to apply for Institutional Review Board(IRB) before importing robot service into hospital. In earlier stage, we signed a Memorandum of Understanding(MOU) with 5 medical centers in Taiwan.
 
+<div align="center">
+    <a href="https://youtu.be/mbnk1kHpXdE">Robot (RoBoHoN) in Health Care Education Interactive Games: Tooth brushing game<br/> <img src="https://img.youtube.com/vi/mbnk1kHpXdE/0.jpg" alt="demo"></a>
+</div>
+
 <br/>
 <div align="center">
     <a href="https://youtu.be/Fi3o05xr-bU">Robot (RoBoHoN) in Health Care Education Interactive Games: Dental check up<br/> <img src="https://img.youtube.com/vi/Fi3o05xr-bU/0.jpg" alt="demo"></a>
