@@ -1,6 +1,6 @@
 ---
 title: "Digital Visual Effects"
-excerpt: "Short description of portfolio item number 1<br/><img src='/res/NTU/VFX/ImageStitching/panorama.jpg'  width='600' height='400'>"
+excerpt: "NTU CSIE 2016 course CSIE7694 Digital Visual Effects practice, implement high dynamic range and image stitching algorithm. <br/><img src='/res/NTU/VFX/ImageStitching/panorama.jpg'  width='600' height='400'>"
 collection: research
 ---
 
