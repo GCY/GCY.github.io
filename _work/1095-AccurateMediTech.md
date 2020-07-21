@@ -26,6 +26,7 @@ collection: research
     <a href="https://youtu.be/y9U-ZYNogH8"><img src="https://img.youtube.com/vi/y9U-ZYNogH8/0.jpg" alt="demo"></a>
 </div>
 
+Be a representative of Accurate Meditech, one of the technology innovation teams that formed a syndicate under Taiwan’s own pavilion at CES 2019, and be received by Taiwan President Tsai Ing-wen. The teams together secured around NTD $5.5 billion in business opportunities, and gained even more exposure in international media than last year.
 <p align="center">
     <img src="/images/Met%20President%20Tsai%20Ing-wen.jpg" width="800" height="600">
 </p>
