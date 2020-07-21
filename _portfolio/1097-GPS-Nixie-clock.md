@@ -1,6 +1,6 @@
 ---
 title: "GPS-Nixie-clock"
-excerpt: "This is GPS Nixie clock,include IN12B, IN14, IN16, and IN2 version. <br/> <img src='/res/GPS-Nixie-clock/nixie clock.jpg' width='600' height='500'>"
+excerpt: "This is GPS Nixie clock, include IN12B, IN14, IN16, and IN2 version. <br/> <img src='/res/GPS-Nixie-clock/nixie clock.jpg' width='600' height='500'>"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 <a href="https://github.com/GCY/GPS-Nixie-Clock">Github</a>
 </p>
 
-This is GPS Nixie clock,include IN12B, IN14, IN16, and IN2 version.
+This is GPS Nixie clock, include IN12B, IN14, IN16, and IN2 version.
 
 ![alt text](/res/GPS-Nixie-clock/nixie%20clock.jpg)
 

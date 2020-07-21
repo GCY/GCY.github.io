@@ -1,6 +1,6 @@
 ---
 title: "2D Shooter game"
-excerpt: "This is NTCU CSIE 2011 Object Oriented Programming course final project written in java. <br/> <img src='/res/2D-STG/demo.gif'>"
+excerpt: "This is the NTCU CSIE 2011 Object-Oriented Programming course final project written in java. <br/> <img src='/res/2D-STG/demo.gif'>"
 collection: portfolio
 ---
 
