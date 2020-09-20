@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Tony Guo"
+title: "About Tony Guo（郭承諺）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
