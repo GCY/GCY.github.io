@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tony Guo"
 title_separator          : "-"
 name                     : &name "CHENG-YAN GUO"
-description              : &description "Robot Fanatic, Bio-Design, LEAN Startup."
+description              : &description "Robot."
 url                      : https://GCY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GCY.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "CHENG-YAN GUO"
   avatar           : "profile.png"
-  bio              : "Robot Fanatic, Bio-Design, LEAN Startup."
+  bio              : "I"
   location         : "Taipei, TW"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "guo-cheng-yan-5858239b"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
