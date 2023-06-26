@@ -20,4 +20,4 @@ Hand, Foot and mouth disease (HFMD) is a common disease with high infectivity fo
 
 [Download paper here](https://github.com/GCY/GCY.github.io/blob/master/files/10.1016%40j.micpath.2017.08.051.pdf)
 
-Recommended citation: Hong, C. H., Hsieh, C. F., Tseng, C. S., Huang, W. C., <B>Guo, C. Y.</B>, Lin, S., & Lee, S. C. (2017). "A nanobiosensing method based on force measurement of antibody-antigen interaction for direct detection of enterovirus 71 by the chemically modified atomic force microscopic probe." Microbial pathogenesis, 111, 292-297.
+Recommended citation: Hong, C. H., Hsieh, C. F., Tseng, C. S., Huang, W. C., Guo, C. Y., Lin, S., & Lee, S. C. (2017). A nanobiosensing method based on force measurement of antibody-antigen interaction for direct detection of enterovirus 71 by the chemically modified atomic force microscopic probe. Microbial pathogenesis, 111, 292-297.
