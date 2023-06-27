@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Tony Guo（郭承諺）"
+title: "Welcome to Cheng-Yan(Tony) Guo’s Homepage（郭承諺）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
