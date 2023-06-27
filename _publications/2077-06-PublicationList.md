@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2077-06-PublicationList
 excerpt: '
 <br>
-**Guo, C. Y.**, Huang, W. Y., Chang, H. C., & Hsieh, T. L. (Under Review, Round2, Sensors-60155-2023). Calibrating Oxygen Saturation Measurements For Different Skin Colors Using The Individual Typology Angle. IEEE Sensors Journal. (First author)
+**Guo, C. Y.**, Huang, W. Y., Chang, H. C., & Hsieh, T. L. (10.1109/JSEN.2023.3288151). Calibrating Oxygen Saturation Measurements For Different Skin Colors Using The Individual Typology Angle. IEEE Sensors Journal. (First author)
 <br><br>
 Guo, C. Y., Perng, J. W., Chen, L. C., & Hsieh, T. L. (2023). A Hemodynamic Pulse Wave Simulator Designed for Calibration of Local Pulse Wave Velocities Measurement for Cuffless Techniques. Micromachines (SCI, IF = 3.523, JCR = 21/64, Instruments & Instrumentation), 14(6), 1218. (First author)
 <br><br>
@@ -34,7 +34,7 @@ Lin, S., Hong, C. H., Sheu, B. C., Wu, L. X., Huang, W. C., Huang, W. C., & Guo,
 date: 2077-06-26
 ---
 
-* Guo, C. Y., Huang, W. Y., Chang, H. C., & Hsieh, T. L. (Under Review, Round2, Sensors-60155-2023). Calibrating Oxygen Saturation Measurements For Different Skin Colors Using The Individual Typology Angle. IEEE Sensors Journal. (First author)
+* Guo, C. Y., Huang, W. Y., Chang, H. C., & Hsieh, T. L. (10.1109/JSEN.2023.3288151). Calibrating Oxygen Saturation Measurements For Different Skin Colors Using The Individual Typology Angle. IEEE Sensors Journal. (First author)
 
 * Guo, C. Y., Perng, J. W., Chen, L. C., & Hsieh, T. L. (2023). A Hemodynamic Pulse Wave Simulator Designed for Calibration of Local Pulse Wave Velocities Measurement for Cuffless Techniques. Micromachines (SCI, IF = 3.523, JCR = 21/64, Instruments & Instrumentation), 14(6), 1218. (First author)
 
