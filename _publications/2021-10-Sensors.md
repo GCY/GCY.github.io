@@ -2,7 +2,7 @@
 title: "Piezoelectric sensor for the monitoring of arterial pulse wave: Detection of arrhythmia occurring in PAC/PVC patients"
 collection: publications
 permalink: /publication/2021-10-Sensors
-excerpt: '<p align="center"> <img src="/images/sensors1.png" width="800" height="600"> </p>'
+excerpt: '<p align="center"> <img src="/images/sensors2.png" width="800" height="600"> </p>'
 date: 2021-10-19
 venue: 'Sensors'
 paperurl: 'https://doi.org/10.3390/s21206915'
