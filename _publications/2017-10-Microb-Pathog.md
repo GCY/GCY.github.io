@@ -2,7 +2,7 @@
 title: "A Nanobiosensing Method Based on Force Measurement of Antibody-Antigen Interaction for Direct Detection of Enterovirus 71 by the Chemically Modified Atomic Force Microscopic Probe"
 collection: publications
 permalink: /publication/2017-10-Microb-Pathog
-excerpt: '<p align="center"> <img src="/images/2017-10-Microb-Pathog/gr1.jpg" width="800" height="700"> </p> <p align="center"> <img src="/images/2017-10-Microb-Pathog/gr2.png" width="800" height="700"> </p>'
+excerpt: '<p align="center"> <img src="/images/2017-10-Microb-Pathog/gr1.jpg" width="800" height="600"> </p> <p align="center"> <img src="/images/2017-10-Microb-Pathog/gr2.png" width="800" height="700"> </p>'
 date: 2017-10-01
 venue: 'Microbial Pathogenesis'
 paperurl: 'https://doi.org/10.1016/j.micpath.2017.08.051'
