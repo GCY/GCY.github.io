@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tony Guo"
 title_separator          : "-"
-name                     : &name "CHENG-YAN GUO"
+name                     : &name "Cheng-Yan Guo"
 description              : &description "Robot."
 url                      : https://GCY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
