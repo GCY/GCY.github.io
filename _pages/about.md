@@ -16,4 +16,4 @@ After leaving Foxconn Technology Group, my partners and I founded several startu
 
 ![Met President Tsai Ing-wen](/images/Met%20President%20Tsai%20Ing-wen.jpg "Met President Tsai Ing-wen")
 
-(Secretary-General to the President **Chen Chu**., The president **Tsai Ing-wen**., **Me**., The Minister of MOST of Taiwan **Chen Liang-Gee**)
+(Secretary-General to the President, **Chen Chu**., The president, **Tsai Ing-wen**., **Me**., The Minister of MOST of Taiwan, **Chen Liang-Gee**)
