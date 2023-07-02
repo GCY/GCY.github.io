@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am seeking a Ph.D. position in **brain-machine interface(BMI)** or **brain-computer interface(BCI)** for Fall 2024 or 2025. Between 2021 and 2023, I have published over ten original articles in SCI journals, with ten being either first-authored or corresponding-authored. My research focuses on biomedical signal processing and sensor design.
+I am seeking a Ph.D. position in **brain-machine interface(BMI)** or **brain-computer interface(BCI)** for Fall 2024 or 2025. Between 2021 and 2023, I have published over ten original articles in SCI journals, with ten being either **first-authored** or **corresponding-authored**. My research focuses on biomedical signal processing and sensor design.
 
 While at Foxconn Health Technology Business Group, I served as a consultant. I was the robotics team leader responsible for developing robotic services in the medical field. I spearheaded various initiatives throughout this period, including devising a comprehensive business strategy, overseeing human resource planning, and conducting technical training.
 
