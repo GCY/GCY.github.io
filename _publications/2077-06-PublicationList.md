@@ -31,7 +31,7 @@ excerpt: '
 **1.** Lin, S., Hong, C. H., Sheu, B. C., Wu, L. X., Huang, W. C., Huang, W. C., & **Guo, C. Y.** (2016). Dynamic response of HPV16/anti-HPV16 pairs with unbinding events studied by atomic force microscopy. **Biochemistry and biophysics reports**, 6, 203-208. (**Co-author**)
 <br> 
 '
-date: 2077-06-26
+date: 2023-06-26
 ---
 
 <br>
