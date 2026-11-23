@@ -24,4 +24,4 @@ I have authored and co-authored more than ten peer-reviewed journal articles, in
 [The president **Tsai Ing-wen** met with national representatives from CES 2019 at the Presidential Office](https://www.taiwannews.com.tw/en/news/3646420).
 
 ![Met President Tsai Ing-wen](/images/Met%20President%20Tsai%20Ing-wen.jpg "Met President Tsai Ing-wen")
-(Secretary-General to the President, **Chen Chu**., The President, **Tsai Ing-wen**., **Me**., The Minister of MOST of Taiwan, **Chen Liang-Gee**)
+(Secretary-General to the President, **Chen Chu**., The President, **Tsai Ing-wen**., **Cheng-Yan Guo**., The Minister of MOST of Taiwan, **Chen Liang-Gee**)
