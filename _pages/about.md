@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I have published over ten original articles in SCI journals, with ten being either **first-authored** or **corresponding-authored**. My research focuses on biomedical signal processing and sensor design.
+I am a Ph.D. student in Electrical Engineering at **National Taiwan University (NTU)**. My research interests include signal processing, biomedical instrumentation, radar sensing, and wireless sensing systems.
 
-While at Foxconn Health Technology Business Group, I served as a consultant. I was the robotics team leader responsible for developing robotic services in the medical field. I spearheaded various initiatives throughout this period, including devising a comprehensive business strategy, overseeing human resource planning, and conducting technical training.
+My previous research has focused on physiological signal processing and sensor design, particularly **cuffless blood pressure estimation**, photoplethysmography (PPG), pulse wave velocity (PWV), and hemodynamic modeling. More recently, my research interests have expanded to radar-based physiological sensing and adaptive signal processing.
 
-After leaving Foxconn Technology Group, my partners and I founded several startup companies. One representative company was a medical device startup focused on developing cuffless technology. During my tenure as R&D director, my team successfully obtained  [**FDA's 510(k) approval**](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K222658)  for our product, **the world's first over-the-counter(OTC) calibration-free cuffless wearable device** to receive such approval. Furthermore, my team is one of the technology innovation teams representing Taiwan's pavilion at CES 2019. We were honored to be received by **President Tsai Ing-wen** and collectively secured approximately NTD $5.5 billion in business opportunities. Our achievements garnered significant international media attention, surpassing our exposure from the previous year. 
+I have authored and co-authored more than ten peer-reviewed journal articles, including multiple first-author and corresponding-author publications. My work emphasizes integrating theoretical modeling, signal processing algorithms, and experimental sensing systems.
+
+## Research Interests
+
+- Statistical and Adaptive Signal Processing
+- Biomedical Signal Processing and Physiological Sensing
+- Radar and Wireless Sensing Systems
+- Sensor Fusion and Measurement Systems
 
 [The president **Tsai Ing-wen** met with national representatives from CES 2019 at the Presidential Office](https://www.taiwannews.com.tw/en/news/3646420).
 
